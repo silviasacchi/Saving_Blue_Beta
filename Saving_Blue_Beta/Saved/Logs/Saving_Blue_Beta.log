@@ -1659,3 +1659,824 @@ LogInit: Object subsystem initialized
 [2023.05.14-16.17.45:689][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 689 ms)
 [2023.05.14-16.17.45:695][258]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2023.05.14-16.17.45:695][258]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.05.14-16.24.21:548][397]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-16.24.21:548][397]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-16.24.21:548][397]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-16.24.25:273][397]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.05.14-16.24.25:345][397]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.05.14-16.24.25:350][397]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.05.14-16.24.25:361][398]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.05.14-16.24.31:924][781]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> BP_Clock
+[2023.05.14-16.24.31:931][781]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.05.14-16.24.34:202][915]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/BP_Clock.BP_Clock
+[2023.05.14-16.24.34:203][915]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-16.24.34:209][915]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-16.24.34:710][915]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.24.34:710][915]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.24.54:686][775]LogSlate: Took 0.002648 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.05.14-16.25.22:859][414]BlueprintLog: New page: Compile BP_Clock
+[2023.05.14-16.25.22:923][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.14-16.25.24:054][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-16.25.24:134][471]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/BP_Clock
+[2023.05.14-16.25.24:134][471]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_ClockC8F9162B43AB7D94699160B532F12E08.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/UI/BP_Clock.uasset'
+[2023.05.14-16.25.24:154][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 789 ms)
+[2023.05.14-16.25.24:161][471]AssetCheck: New page: Asset Save: BP_Clock
+[2023.05.14-16.25.24:161][471]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/BP_Clock.BP_Clock
+[2023.05.14-16.25.27:020][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.05.14-16.25.27:021][630]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.058
+[2023.05.14-16.25.27:022][630]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/BP_Health] ([2] browsable assets)...
+[2023.05.14-16.25.27:025][630]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/BP_Health.BP_Health]
+[2023.05.14-16.25.27:025][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/BP_Health]
+[2023.05.14-16.25.27:034][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/BP_Health_Auto1
+[2023.05.14-16.25.27:034][630]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_Health_Auto17811CF464C06ABCA29526BB29F979381.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/Autosaves/Game/Blueprints/UI/BP_Health_Auto1.uasset'
+[2023.05.14-16.25.27:035][630]LogFileHelpers: Auto-saving content packages took 0.014
+[2023.05.14-16.25.39:855][370]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-16.25.39:855][370]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-16.25.39:855][370]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-16.25.53:281][154]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.14-16.26.35:075][ 95]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.05.14-16.26.38:485][211]LogSlate: Window 'Delete Variable' being destroyed
+[2023.05.14-16.26.41:293][376]LogEditorTransaction: Undo Remove Variable
+[2023.05.14-16.26.41:779][385]LogEditorTransaction: Undo Paste Variable: character_reference
+[2023.05.14-16.28.00:726][ 31]BlueprintLog: New page: Compile BP_Clock
+[2023.05.14-16.28.00:728][ 31]LogBlueprint: Warning: [AssetLog] C:\Users\Silvia\OneDrive - Dundalk Institute of Technology\Desktop\Saving_Blue_Beta\Saving_Blue_Beta\Content\Blueprints\UI\BP_Clock.uasset: [Compiler] Could not find a variable named "character_reference" in 'BP_Clock_C'.
+Make sure 'BP_Clock_C' has been compiled for  Set character_reference
+[2023.05.14-16.28.00:728][ 31]LogBlueprint: Error: [AssetLog] C:\Users\Silvia\OneDrive - Dundalk Institute of Technology\Desktop\Saving_Blue_Beta\Saving_Blue_Beta\Content\Blueprints\UI\BP_Clock.uasset: [Compiler] Default value '' for  Character Reference  is invalid: 'PinSubCategoryObject on pin 'character_reference' is NULL and PinSubCategory is 'None' not 'self''
+[2023.05.14-16.28.00:787][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.05.14-16.28.05:410][286]LogSlate: Window 'BP_Clock' being destroyed
+[2023.05.14-16.28.48:152][517]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.05.14-16.28.48:234][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.05.14-16.28.49:085][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-16.28.49:193][557]LogSavePackage: Moving output files for package: /Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.05.14-16.28.49:194][557]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_ThirdPersonCharacter74CE9DE145B3302F54ECAD8CA2102F28.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.05.14-16.28.49:202][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 906 ms)
+[2023.05.14-16.28.49:207][557]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.05.14-16.28.49:207][557]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.05.14-16.32.13:467][318]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.05.14-16.32.13:547][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.05.14-16.32.29:880][607]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.32.29:880][607]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.35.32:483][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-16.35.32:555][469]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/BP_Health
+[2023.05.14-16.35.32:556][469]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_Health6D1ABC8043B30676BA3D3EAF71117CF2.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/UI/BP_Health.uasset'
+[2023.05.14-16.35.32:564][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 988 ms)
+[2023.05.14-16.35.32:574][469]AssetCheck: New page: Asset Save: BP_Health
+[2023.05.14-16.35.32:574][469]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/BP_Health.BP_Health
+[2023.05.14-16.36.04:634][786]BlueprintLog: New page: Compile BP_Clock
+[2023.05.14-16.36.04:703][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.05.14-16.36.05:660][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-16.36.05:723][838]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/BP_Clock
+[2023.05.14-16.36.05:724][838]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_Clock8EFB6C044BF94B9C20DBADA767F07F4B.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/UI/BP_Clock.uasset'
+[2023.05.14-16.36.05:731][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1.06 sec)
+[2023.05.14-16.36.05:737][838]AssetCheck: New page: Asset Save: BP_Clock
+[2023.05.14-16.36.05:738][838]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/BP_Clock.BP_Clock
+[2023.05.14-16.36.07:121][918]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.36.07:122][918]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.36.59:862][859]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.36.59:862][859]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.37.58:078][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.05.14-16.37.58:082][880]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.061
+[2023.05.14-16.37.58:083][880]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.05.14-16.37.58:097][880]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.05.14-16.37.58:097][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.05.14-16.37.58:114][880]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2023.05.14-16.37.58:116][880]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_ThirdPersonCharacter_Auto2DF0CB2C9492997AD155FAD9CE9B28804.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/Autosaves/Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2023.05.14-16.37.58:118][880]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/BP_Clock] ([2] browsable assets)...
+[2023.05.14-16.37.58:122][880]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/BP_Clock.BP_Clock]
+[2023.05.14-16.37.58:122][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/BP_Clock]
+[2023.05.14-16.37.58:127][880]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/BP_Clock_Auto2
+[2023.05.14-16.37.58:128][880]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_Clock_Auto267899C3D448D7FB4E3891FBC03139AD1.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/Autosaves/Game/Blueprints/UI/BP_Clock_Auto2.uasset'
+[2023.05.14-16.37.58:129][880]LogFileHelpers: Auto-saving content packages took 0.047
+[2023.05.14-16.38.11:338][210]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-16.38.11:338][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-16.38.11:346][210]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-16.38.11:346][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-16.38.18:174][600]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '/Script/Engine.BlueprintGeneratedClass'"/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C"',MemberName="minutes",MemberGuid=44DA23EB4647C242B45005A13459644A)'
+[2023.05.14-16.39.18:878][194]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.39.18:878][194]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.40.05:370][639]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.40.05:370][639]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.40.35:666][641]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.40.35:666][641]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.42.01:352][549]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.42.01:352][549]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.42.12:238][187]BlueprintLog: New page: Compile BP_Clock
+[2023.05.14-16.42.12:309][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.05.14-16.42.41:042][468]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/BP_Health.BP_Health
+[2023.05.14-16.42.41:042][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-16.42.41:048][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-16.42.41:415][468]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.42.41:415][468]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.43.13:874][406]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-16.43.13:875][406]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-16.43.13:875][406]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-16.47.02:300][319]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.47.02:300][319]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.48.47:505][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.05.14-16.48.47:507][757]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.072
+[2023.05.14-16.48.47:507][757]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/BP_Clock] ([2] browsable assets)...
+[2023.05.14-16.48.47:513][757]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/BP_Clock.BP_Clock]
+[2023.05.14-16.48.47:514][757]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/BP_Clock]
+[2023.05.14-16.48.47:521][757]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/BP_Clock_Auto3
+[2023.05.14-16.48.47:521][757]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_Clock_Auto39576A84D46A3F3CB77AF18B49ED8193E.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/Autosaves/Game/Blueprints/UI/BP_Clock_Auto3.uasset'
+[2023.05.14-16.48.47:522][757]LogFileHelpers: Auto-saving content packages took 0.016
+[2023.05.14-16.54.46:275][694]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.54.46:277][694]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.56.00:825][394]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.56.00:825][394]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.56.33:167][216]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.56.33:167][216]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.57.23:559][314]LogSlate: Window 'Delete Variable' being destroyed
+[2023.05.14-16.58.09:125][314]LogEditorTransaction: Undo Remove Variable
+[2023.05.14-16.58.09:861][337]LogEditorTransaction: Undo Remove Variable
+[2023.05.14-16.58.10:280][362]LogEditorTransaction: Undo Delete current selection
+[2023.05.14-16.58.19:901][927]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.58.19:901][927]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-16.58.37:457][869]LogSlate: Window 'Delete Variable' being destroyed
+[2023.05.14-16.58.59:462][180]LogEditorTransaction: Undo Delete current selection
+[2023.05.14-16.59.00:660][229]LogEditorTransaction: Undo Remove Variable
+[2023.05.14-16.59.01:323][268]LogEditorTransaction: Undo Create Binding
+[2023.05.14-16.59.01:996][308]LogEditorTransaction: Undo Remove Binding
+[2023.05.14-16.59.29:202][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.05.14-16.59.29:209][621]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.070
+[2023.05.14-16.59.29:209][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.05.14-16.59.29:210][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.05.14-16.59.29:224][621]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2023.05.14-16.59.29:224][621]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_ThirdPersonCharacter_Auto484E4F11448828BC6132E488F40B81BA8.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/Autosaves/Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2023.05.14-16.59.29:227][621]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/BP_Clock] ([2] browsable assets)...
+[2023.05.14-16.59.29:234][621]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/BP_Clock.BP_Clock]
+[2023.05.14-16.59.29:234][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/BP_Clock]
+[2023.05.14-16.59.29:241][621]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/BP_Clock_Auto4
+[2023.05.14-16.59.29:241][621]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_Clock_Auto49EFEB6F841F9AAFD5EA147926B24F5FB.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/Autosaves/Game/Blueprints/UI/BP_Clock_Auto4.uasset'
+[2023.05.14-16.59.29:242][621]LogFileHelpers: Auto-saving content packages took 0.033
+[2023.05.14-16.59.37:095][645]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-16.59.37:095][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-16.59.37:103][645]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-16.59.37:103][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-16.59.53:532][618]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.05.14-16.59.53:612][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.05.14-16.59.54:493][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-16.59.54:611][662]LogSavePackage: Moving output files for package: /Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.05.14-16.59.54:612][662]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_ThirdPersonCharacterF79F2301460B433D09374BA2E5C25E81.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.05.14-16.59.54:619][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 1.18 sec)
+[2023.05.14-16.59.54:626][662]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.05.14-16.59.54:626][662]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.05.14-17.00.00:416][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.05.14-17.00.01:603][988]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.14-17.00.01:668][988]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/UI/BP_Clock.BP_Clock
+	Asset Type: WidgetBlueprint
+[2023.05.14-17.00.02:152][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.05.14-17.00.02:198][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.05.14-17.00.02:243][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.05.14-17.00.09:082][388]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.14-17.00.09:087][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.14-17.00.09:087][388]PIE: New page: PIE session: Level1 (14 May 2023, 19:00:09)
+[2023.05.14-17.00.09:087][388]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.05.14-17.00.09:108][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021311s)
+[2023.05.14-17.00.09:108][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.021348s)
+[2023.05.14-17.00.09:108][388]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-17.00.09:109][388]LogAIModule: Creating AISystem for world Level1
+[2023.05.14-17.00.09:109][388]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2023.05.14-17.00.09:154][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.05.14-17.00.09:156][388]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.05.14-17.00.09:156][388]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.14-17.00.09:156][388]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.14-17.00.09:156][388]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.14-17.00.09:156][388]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.14-17.00.09:156][388]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.14-17.00.09:156][388]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.14-17.00.09:156][388]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.14-17.00.09:156][388]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.14-17.00.09:157][388]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.14-17.00.09:157][388]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.14-17.00.09:157][388]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.14-17.00.09:160][388]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.14-17.00.09:304][388]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.14-17.00.09:304][388]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.14-17.00.09:304][388]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.14-17.00.09:304][388]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.14-17.00.09:307][388]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.05.14-17.00.09:307][388]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.05.14-17.00.09:308][388]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.05.14-17.00.09:309][388]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.05.14-17.00.09:309][388]LogInit: FAudioDevice initialized.
+[2023.05.14-17.00.09:309][388]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2023.05.14-17.00.09:311][388]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.14-17.00.09:320][388]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.05.14-18.00.09
+[2023.05.14-17.00.09:322][388]LogWorld: Bringing up level for play took: 0.010763
+[2023.05.14-17.00.09:324][388]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.05.14-17.00.09:328][388]PIE: Server logged in
+[2023.05.14-17.00.09:329][388]PIE: Play in editor total start time 0.242 seconds.
+[2023.05.14-17.00.12:657][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-17.00.12:658][578]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.05.14-17.00.12:658][578]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-17.00.12:659][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-17.00.12:664][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.14-17.00.12:671][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-17.00.12:720][578]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.14-17.00.12:720][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.14-17.00.12:721][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.14-17.00.12:740][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-17.00.12:744][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.05.14-17.00.12:779][579]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.05.14-17.01.09:300][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-17.01.09:384][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.05.14-17.01.09:477][952]LogSavePackage: Moving output files for package: /Game/Levels/Level1
+[2023.05.14-17.01.09:479][952]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/Level1A6B3C3F74190B7A4D63CA8A10C6A9571.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Levels/Level1.umap'
+[2023.05.14-17.01.09:492][952]LogFileHelpers: Saving map 'Level1' took 0.151
+[2023.05.14-17.01.09:515][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 214 ms (total: 1.40 sec)
+[2023.05.14-17.01.09:524][952]AssetCheck: New page: Asset Save: Level1
+[2023.05.14-17.01.09:524][952]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level1.Level1
+[2023.05.14-17.16.14:984][757]LogDerivedDataCache: C:/Users/Silvia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.174 and deleted 0 files with total size 0 MiB. Scanned 11667 files in 11374 folders with total size 2481 MiB.
+[2023.05.14-18.16.14:946][555]LogDerivedDataCache: C:/Users/Silvia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.135 and deleted 0 files with total size 0 MiB. Scanned 11667 files in 11374 folders with total size 2481 MiB.
+[2023.05.14-18.28.53:853][926]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.05.14-18.28.53:865][926]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.05.14-18.28.53:871][926]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.05.14-18.28.53:881][927]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.05.14-18.28.58:834][223]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Menu
+[2023.05.14-18.28.58:844][223]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.05.14-18.29.07:906][755]LogContentBrowser: Attempting asset rename: Menu -> BP_Menu
+[2023.05.14-18.29.07:941][755]LogMetaData: Removing '/Game/Blueprints/UI/BP_Menu.SKEL_BP_Menu_C' ref from Metadata '/Game/Blueprints/UI/Menu.PackageMetaData'
+[2023.05.14-18.29.07:942][755]LogMetaData: Removing '/Game/Blueprints/UI/BP_Menu.BP_Menu_C' ref from Metadata '/Game/Blueprints/UI/Menu.PackageMetaData'
+[2023.05.14-18.29.07:942][755]LogMetaData: Removing '/Game/Blueprints/UI/BP_Menu.BP_Menu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/UI/Menu.PackageMetaData'
+[2023.05.14-18.29.07:942][755]LogMetaData: Removing '/Game/Blueprints/UI/BP_Menu.BP_Menu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/UI/Menu.PackageMetaData'
+[2023.05.14-18.29.07:942][755]LogMetaData: Removing '/Game/Blueprints/UI/BP_Menu.BP_Menu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/UI/Menu.PackageMetaData'
+[2023.05.14-18.29.07:942][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-18.29.08:006][755]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/BP_Menu
+[2023.05.14-18.29.08:006][755]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_MenuED8BECCA4D848A9603B4BDBFEE9C88F2.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/UI/BP_Menu.uasset'
+[2023.05.14-18.29.08:013][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.47 sec)
+[2023.05.14-18.29.08:093][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.05.14-18.29.08:138][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.05.14-18.29.08:182][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.05.14-18.29.08:189][755]AssetCheck: New page: Asset Save: BP_Menu
+[2023.05.14-18.29.08:189][755]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/BP_Menu.BP_Menu
+[2023.05.14-18.29.23:557][879]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/BP_Menu.BP_Menu
+[2023.05.14-18.29.23:558][879]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-18.29.23:573][879]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-18.29.24:126][879]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-18.29.24:126][879]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-18.30.43:594][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.05.14-18.30.43:597][566]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.061
+[2023.05.14-18.30.43:597][566]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/BP_Menu] ([2] browsable assets)...
+[2023.05.14-18.30.43:600][566]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/BP_Menu.BP_Menu]
+[2023.05.14-18.30.43:600][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/BP_Menu]
+[2023.05.14-18.30.43:605][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/BP_Menu_Auto5
+[2023.05.14-18.30.43:605][566]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_Menu_Auto5D468D3154C78C6957854F29B17787DD4.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/Autosaves/Game/Blueprints/UI/BP_Menu_Auto5.uasset'
+[2023.05.14-18.30.43:606][566]LogFileHelpers: Auto-saving content packages took 0.009
+[2023.05.14-18.34.37:546][422]BlueprintLog: New page: Compile BP_Menu
+[2023.05.14-18.34.37:615][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.05.14-18.34.38:720][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-18.34.38:775][468]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/BP_Menu
+[2023.05.14-18.34.38:777][468]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_Menu5EDDDCFB49851385F0E51D9FA2EE4E03.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/UI/BP_Menu.uasset'
+[2023.05.14-18.34.38:797][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 1.54 sec)
+[2023.05.14-18.34.38:805][468]AssetCheck: New page: Asset Save: BP_Menu
+[2023.05.14-18.34.38:805][468]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/BP_Menu.BP_Menu
+[2023.05.14-18.34.42:606][684]LogSlate: Window 'BP_Menu' being destroyed
+[2023.05.14-18.34.43:689][746]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-18.34.43:689][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-18.34.43:704][746]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-18.34.43:704][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-18.39.52:108][899]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.14-18.39.59:144][315]LogEditorTransaction: Undo Edit Specified Color
+[2023.05.14-18.40.34:480][960]BlueprintLog: New page: Compile BP_Menu
+[2023.05.14-18.40.34:550][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.05.14-18.40.35:397][  2]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-18.40.35:464][  2]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/BP_Menu
+[2023.05.14-18.40.35:465][  2]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_MenuA02AC7284B581920DEF6539A2BB977A4.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/UI/BP_Menu.uasset'
+[2023.05.14-18.40.35:472][  2]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 1.62 sec)
+[2023.05.14-18.40.35:480][  2]AssetCheck: New page: Asset Save: BP_Menu
+[2023.05.14-18.40.35:480][  2]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/BP_Menu.BP_Menu
+[2023.05.14-18.40.54:895][834]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.14-18.41.07:897][601]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.14-18.41.37:726][374]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.14-18.41.39:162][454]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.14-18.41.43:315][698]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.14-18.43.31:315][158]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.14-18.43.42:789][824]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.14-18.43.46:141][ 11]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.14-18.43.51:943][354]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.14-18.43.55:757][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-18.43.55:803][581]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/BP_Menu
+[2023.05.14-18.43.55:805][581]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_Menu7B64F8E741300C9577F5DE891626693A.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/UI/BP_Menu.uasset'
+[2023.05.14-18.43.55:824][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.69 sec)
+[2023.05.14-18.43.55:835][581]AssetCheck: New page: Asset Save: BP_Menu
+[2023.05.14-18.43.55:835][581]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/BP_Menu.BP_Menu
+[2023.05.14-18.43.57:855][702]BlueprintLog: New page: Compile BP_Menu
+[2023.05.14-18.43.57:923][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.05.14-18.43.58:733][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-18.43.58:788][743]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/BP_Menu
+[2023.05.14-18.43.58:788][743]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_Menu6E26D3E8485D3DB98B04B2A79EAA1127.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/UI/BP_Menu.uasset'
+[2023.05.14-18.43.58:795][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1.75 sec)
+[2023.05.14-18.43.58:801][743]AssetCheck: New page: Asset Save: BP_Menu
+[2023.05.14-18.43.58:802][743]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/BP_Menu.BP_Menu
+[2023.05.14-18.44.27:738][995]LogSlate: Window 'New Level' being destroyed
+[2023.05.14-18.44.27:806][995]LightingResults: New page: Lighting Build
+[2023.05.14-18.44.27:851][995]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-18.44.27:851][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-18.44.27:852][995]MapCheck: New page: Map Check
+[2023.05.14-18.44.27:852][995]LightingResults: New page: Lighting Build
+[2023.05.14-18.44.27:903][995]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.14-18.44.27:918][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.05.14-18.44.27:923][995]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-18.44.27:923][995]LogAIModule: Creating AISystem for world Untitled
+[2023.05.14-18.44.27:926][995]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.05.14-18.44.27:954][995]LoadErrors: New page: New Map
+[2023.05.14-18.45.03:179][410]LogSlate: Window 'Save Level As' being destroyed
+[2023.05.14-18.45.03:393][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.05.14-18.45.03:399][410]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu
+[2023.05.14-18.45.03:399][410]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/MainMenu0A6FF93A48C8C92F2D8A108E8872EA48.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Levels/MainMenu.umap'
+[2023.05.14-18.45.03:418][410]LogFileHelpers: Saving map 'MainMenu' took 0.213
+[2023.05.14-18.45.03:418][410]LightingResults: New page: Lighting Build
+[2023.05.14-18.45.03:418][410]LoadErrors: New page: Loading map: MainMenu.umap
+[2023.05.14-18.45.03:419][410]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-18.45.03:419][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-18.45.03:419][410]MapCheck: New page: Map Check
+[2023.05.14-18.45.03:419][410]LightingResults: New page: Lighting Build
+[2023.05.14-18.45.03:463][410]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.14-18.45.03:477][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.05.14-18.45.03:485][410]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.05.14-18.45.03:485][410]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-18.45.03:486][410]LogAIModule: Creating AISystem for world MainMenu
+[2023.05.14-18.45.03:500][410]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.14-18.45.03:543][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.05.14-18.45.03:549][410]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.14-18.45.03:550][410]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.25ms to complete.
+[2023.05.14-18.45.03:550][410]LogFileHelpers: Loading map 'MainMenu' took 0.132
+[2023.05.14-18.45.03:556][410]AssetCheck: New page: Asset Save: MainMenu
+[2023.05.14-18.45.03:556][410]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainMenu.MainMenu
+[2023.05.14-18.45.13:676][984]LogContentBrowser: Attempting asset rename: BP_Menu -> BP_MainMenu
+[2023.05.14-18.45.13:693][984]LogMetaData: Removing '/Game/Blueprints/UI/BP_MainMenu.BP_MainMenu_C' ref from Metadata '/Game/Blueprints/UI/BP_Menu.PackageMetaData'
+[2023.05.14-18.45.13:693][984]LogMetaData: Removing '/Game/Blueprints/UI/BP_MainMenu.SKEL_BP_MainMenu_C' ref from Metadata '/Game/Blueprints/UI/BP_Menu.PackageMetaData'
+[2023.05.14-18.45.13:693][984]LogMetaData: Removing '/Game/Blueprints/UI/BP_MainMenu.BP_MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/UI/BP_Menu.PackageMetaData'
+[2023.05.14-18.45.13:693][984]LogMetaData: Removing '/Game/Blueprints/UI/BP_MainMenu.BP_MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/UI/BP_Menu.PackageMetaData'
+[2023.05.14-18.45.13:693][984]LogMetaData: Removing '/Game/Blueprints/UI/BP_MainMenu.BP_MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/UI/BP_Menu.PackageMetaData'
+[2023.05.14-18.45.13:693][984]LogMetaData: Removing '/Game/Blueprints/UI/BP_MainMenu.SKEL_BP_MainMenu_C:Tick' ref from Metadata '/Game/Blueprints/UI/BP_Menu.PackageMetaData'
+[2023.05.14-18.45.13:693][984]LogMetaData: Removing '/Game/Blueprints/UI/BP_MainMenu.SKEL_BP_MainMenu_C:Construct' ref from Metadata '/Game/Blueprints/UI/BP_Menu.PackageMetaData'
+[2023.05.14-18.45.13:693][984]LogMetaData: Removing '/Game/Blueprints/UI/BP_MainMenu.SKEL_BP_MainMenu_C:PreConstruct' ref from Metadata '/Game/Blueprints/UI/BP_Menu.PackageMetaData'
+[2023.05.14-18.45.13:693][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-18.45.13:754][984]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/BP_MainMenu
+[2023.05.14-18.45.13:754][984]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_MainMenuD133C3D9412A21E5E26FE1BF87255393.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/UI/BP_MainMenu.uasset'
+[2023.05.14-18.45.13:763][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.82 sec)
+[2023.05.14-18.45.13:867][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.05.14-18.45.13:916][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.05.14-18.45.13:960][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.05.14-18.45.13:967][984]AssetCheck: New page: Asset Save: BP_MainMenu
+[2023.05.14-18.45.13:969][984]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/BP_MainMenu.BP_MainMenu
+[2023.05.14-18.47.11:322][963]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.14-18.47.11:332][963]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.05.14-18.47.11:337][963]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.05.14-18.47.11:347][964]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.05.14-18.47.20:849][ 94]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.05.14-18.47.20:856][ 94]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.05.14-18.47.37:351][ 73]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_MenuGameMode
+[2023.05.14-18.47.37:367][ 73]LogMetaData: Removing '/Game/Blueprints/UI/BP_MenuGameMode.BP_MenuGameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/UI/NewBlueprint.PackageMetaData'
+[2023.05.14-18.47.37:367][ 73]LogMetaData: Removing '/Game/Blueprints/UI/BP_MenuGameMode.SKEL_BP_MenuGameMode_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/UI/NewBlueprint.PackageMetaData'
+[2023.05.14-18.47.37:367][ 73]LogMetaData: Removing '/Game/Blueprints/UI/BP_MenuGameMode.SKEL_BP_MenuGameMode_C' ref from Metadata '/Game/Blueprints/UI/NewBlueprint.PackageMetaData'
+[2023.05.14-18.47.37:367][ 73]LogMetaData: Removing '/Game/Blueprints/UI/BP_MenuGameMode.BP_MenuGameMode_C' ref from Metadata '/Game/Blueprints/UI/NewBlueprint.PackageMetaData'
+[2023.05.14-18.47.37:367][ 73]LogMetaData: Removing '/Game/Blueprints/UI/BP_MenuGameMode.BP_MenuGameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/UI/NewBlueprint.PackageMetaData'
+[2023.05.14-18.47.37:367][ 73]LogMetaData: Removing '/Game/Blueprints/UI/BP_MenuGameMode.BP_MenuGameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/UI/NewBlueprint.PackageMetaData'
+[2023.05.14-18.47.37:367][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-18.47.37:427][ 73]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/BP_MenuGameMode
+[2023.05.14-18.47.37:427][ 73]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_MenuGameMode0527D68D44AFB36A174671B4C138B647.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/UI/BP_MenuGameMode.uasset'
+[2023.05.14-18.47.37:436][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.89 sec)
+[2023.05.14-18.47.37:503][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.14-18.47.37:547][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.05.14-18.47.37:591][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.14-18.47.37:599][ 73]AssetCheck: New page: Asset Save: BP_MenuGameMode
+[2023.05.14-18.47.37:599][ 73]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/UI/BP_MenuGameMode.BP_MenuGameMode
+[2023.05.14-18.48.12:046][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-18.48.12:155][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.05.14-18.48.12:159][992]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu
+[2023.05.14-18.48.12:159][992]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/MainMenu3172D7DB465246EA2CCBF4AEB1CA20DA.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Levels/MainMenu.umap'
+[2023.05.14-18.48.12:167][992]LogFileHelpers: Saving map 'MainMenu' took 0.059
+[2023.05.14-18.48.12:177][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 2.02 sec)
+[2023.05.14-18.48.12:185][992]AssetCheck: New page: Asset Save: MainMenu
+[2023.05.14-18.48.12:185][992]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainMenu.MainMenu
+[2023.05.14-18.48.14:570][135]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.14-18.48.14:575][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.14-18.48.14:575][135]PIE: New page: PIE session: MainMenu (14 May 2023, 20:48:14)
+[2023.05.14-18.48.14:600][135]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2023.05.14-18.48.14:601][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001062s)
+[2023.05.14-18.48.14:601][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001125s)
+[2023.05.14-18.48.14:601][135]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-18.48.14:602][135]LogAIModule: Creating AISystem for world MainMenu
+[2023.05.14-18.48.14:602][135]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2023.05.14-18.48.14:646][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.05.14-18.48.14:647][135]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.05.14-18.48.14:647][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.14-18.48.14:647][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.14-18.48.14:647][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.14-18.48.14:647][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.14-18.48.14:647][135]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.14-18.48.14:647][135]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.14-18.48.14:647][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.14-18.48.14:647][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.14-18.48.14:647][135]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.14-18.48.14:649][135]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.14-18.48.14:649][135]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.14-18.48.14:651][135]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.14-18.48.14:788][135]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.14-18.48.14:789][135]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.14-18.48.14:789][135]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.14-18.48.14:789][135]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.14-18.48.14:789][135]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.05.14-18.48.14:789][135]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.05.14-18.48.14:791][135]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.05.14-18.48.14:791][135]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.05.14-18.48.14:791][135]LogInit: FAudioDevice initialized.
+[2023.05.14-18.48.14:791][135]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenu'.
+[2023.05.14-18.48.14:794][135]LogLoad: Game class is 'BP_MenuGameMode_C'
+[2023.05.14-18.48.14:794][135]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2023.05.14-19.48.14
+[2023.05.14-18.48.14:794][135]LogWorld: Bringing up level for play took: 0.000306
+[2023.05.14-18.48.14:797][135]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.05.14-18.48.14:800][135]PIE: Server logged in
+[2023.05.14-18.48.14:801][135]PIE: Play in editor total start time 0.225 seconds.
+[2023.05.14-18.48.16:331][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-18.48.16:331][225]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2023.05.14-18.48.16:331][225]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-18.48.16:331][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-18.48.16:337][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.14-18.48.16:342][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-18.48.16:386][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-18.48.16:386][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.14-18.48.16:387][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.14-18.48.16:411][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.05.14-18.48.16:427][226]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.05.14-18.48.42:579][462]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2023.05.14-18.48.42:580][462]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-18.49.16:440][698]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-18.49.16:440][698]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-18.49.16:440][698]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-18.49.49:443][980]BlueprintLog: New page: Compile MainMenu
+[2023.05.14-18.49.49:504][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.05.14-18.49.57:768][239]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.14-18.49.57:777][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.14-18.49.57:777][239]PIE: New page: PIE session: MainMenu (14 May 2023, 20:49:57)
+[2023.05.14-18.49.57:777][239]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2023.05.14-18.49.57:782][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005533s)
+[2023.05.14-18.49.57:782][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.005566s)
+[2023.05.14-18.49.57:782][239]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-18.49.57:782][239]LogAIModule: Creating AISystem for world MainMenu
+[2023.05.14-18.49.57:783][239]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2023.05.14-18.49.57:836][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.05.14-18.49.57:838][239]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.05.14-18.49.57:838][239]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.14-18.49.57:838][239]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.14-18.49.57:838][239]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.14-18.49.57:838][239]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.14-18.49.57:838][239]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.14-18.49.57:838][239]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.14-18.49.57:838][239]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.14-18.49.57:838][239]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.14-18.49.57:838][239]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.14-18.49.57:838][239]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.14-18.49.57:838][239]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.14-18.49.57:842][239]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.14-18.49.57:963][239]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.14-18.49.57:964][239]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.14-18.49.57:964][239]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.14-18.49.57:964][239]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.14-18.49.57:964][239]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.05.14-18.49.57:964][239]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.05.14-18.49.57:965][239]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.05.14-18.49.57:966][239]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.05.14-18.49.57:966][239]LogInit: FAudioDevice initialized.
+[2023.05.14-18.49.57:966][239]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenu'.
+[2023.05.14-18.49.57:968][239]LogLoad: Game class is 'BP_MenuGameMode_C'
+[2023.05.14-18.49.57:968][239]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2023.05.14-19.49.57
+[2023.05.14-18.49.57:970][239]LogWorld: Bringing up level for play took: 0.000775
+[2023.05.14-18.49.57:972][239]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.05.14-18.49.57:973][239]PIE: Server logged in
+[2023.05.14-18.49.57:974][239]PIE: Play in editor total start time 0.197 seconds.
+[2023.05.14-18.50.00:252][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-18.50.00:252][374]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2023.05.14-18.50.00:252][374]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-18.50.00:252][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-18.50.00:256][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.14-18.50.00:262][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-18.50.00:308][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-18.50.00:309][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.05.14-18.50.00:310][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.05.14-18.50.00:330][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.05.14-18.50.00:348][375]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.05.14-18.51.29:166][ 47]BlueprintLog: New page: Compile BP_MainMenu
+[2023.05.14-18.51.29:240][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.05.14-18.51.30:391][113]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-18.51.30:391][113]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-18.52.17:006][498]BlueprintLog: New page: Compile BP_MainMenu
+[2023.05.14-18.52.17:064][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.05.14-18.52.17:885][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-18.52.17:960][542]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/BP_MainMenu
+[2023.05.14-18.52.17:961][542]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_MainMenuC25A1D1343E5CAA40BA42A9C80BB8B27.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/UI/BP_MainMenu.uasset'
+[2023.05.14-18.52.17:968][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 2.10 sec)
+[2023.05.14-18.52.17:976][542]AssetCheck: New page: Asset Save: BP_MainMenu
+[2023.05.14-18.52.17:976][542]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/BP_MainMenu.BP_MainMenu
+[2023.05.14-18.53.55:164][671]LogInterchangeEngine: [Pending] Importing
+[2023.05.14-18.53.55:190][672]LogInterchangeEngine: [Pending] Importing
+[2023.05.14-18.53.55:202][672]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.05.14-18.53.55:492][672]LogTexture: Display: Building textures: /Game/CustomMaterials/Images/Untitled_Artwork_14.Untitled_Artwork_14 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.05.14-18.53.55:504][672]LogInterchangeEngine: [Success] Import Done
+[2023.05.14-18.53.55:570][673]LogInterchangeEngine: [Success] Import Done
+[2023.05.14-18.54.27:717][207]LogTexture: Display: Building textures: /Game/CustomMaterials/Images/Untitled_Artwork_14.Untitled_Artwork_14 (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 122.72916 MB), EncodeSpeed: Fast
+[2023.05.14-18.54.39:444][394]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-18.54.39:444][394]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-18.55.04:653][530]LogContentBrowser: Attempting asset rename: Untitled_Artwork_14 -> image_paris
+[2023.05.14-18.55.04:671][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-18.55.04:797][530]LogSavePackage: Moving output files for package: /Game/CustomMaterials/Images/image_paris
+[2023.05.14-18.55.04:797][530]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/image_parisAA0EDE5247AE043062A975B46C3182B5.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/CustomMaterials/Images/image_paris.uasset'
+[2023.05.14-18.55.04:807][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 2.24 sec)
+[2023.05.14-18.55.04:881][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.14-18.55.04:936][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.05.14-18.55.04:986][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.05.14-18.55.04:992][530]AssetCheck: New page: Asset Save: image_paris
+[2023.05.14-18.55.04:992][530]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/CustomMaterials/Images/image_paris.image_paris
+[2023.05.14-18.56.06:296][654]LogShaderCompilers: Display: ================================================
+[2023.05.14-18.56.06:296][654]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.14-18.56.06:296][654]LogShaderCompilers: Display: Total job queries 355, among them cache hits 31 (8.73%)
+[2023.05.14-18.56.06:296][654]LogShaderCompilers: Display: Tracking 324 distinct input hashes that result in 228 distinct outputs (70.37%)
+[2023.05.14-18.56.06:297][654]LogShaderCompilers: Display: RAM used: 2.79 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.17%
+[2023.05.14-18.56.06:297][654]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.14-18.56.06:297][654]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.14-18.56.06:297][654]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.14-18.56.06:297][654]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.14-18.56.06:297][654]LogShaderCompilers: Display: ================================================
+[2023.05.14-18.56.06:378][659]LogD3D12RHI: Creating RTPSO with 227 shaders (0 cached, 1 new) took 27.04 ms. Compile time 12.12 ms, link time 14.84 ms.
+[2023.05.14-18.56.27:178][769]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.05.14-18.56.27:826][781]LogEditorTransaction: Undo Resize Widget
+[2023.05.14-18.56.28:533][821]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.05.14-18.56.29:067][850]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.05.14-18.56.38:710][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.05.14-18.56.40:372][402]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.14-18.56.40:423][402]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/CustomMaterials/Images/image_paris.image_paris
+	Asset Type: Texture2D
+[2023.05.14-18.56.40:852][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.05.14-18.56.40:904][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.05.14-18.56.40:954][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.05.14-18.57.15:062][605]LogInterchangeEngine: [Pending] Importing
+[2023.05.14-18.57.15:084][606]LogInterchangeEngine: [Pending] Importing
+[2023.05.14-18.57.15:406][606]LogInterchangeEngine: [Success] Import Done
+[2023.05.14-18.57.15:412][606]LogTexture: Display: Building textures: /Game/CustomMaterials/Images/One.One (TFO_AutoDXT, 4000x5500 x1x1x1) (Required Memory Estimate: 1510.682601 MB), EncodeSpeed: Fast
+[2023.05.14-18.57.15:482][607]LogInterchangeEngine: [Success] Import Done
+[2023.05.14-18.57.24:762][ 40]LogTexture: Display: Building textures: /Game/CustomMaterials/Images/One.One (BGRA8, 4000x5500 x1x1x1) (Required Memory Estimate: 643.474766 MB), EncodeSpeed: Fast
+[2023.05.14-18.57.40:061][945]LogContentBrowser: Attempting asset rename: One -> paris_drawing
+[2023.05.14-18.57.40:081][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-18.57.40:469][945]LogSavePackage: Moving output files for package: /Game/CustomMaterials/Images/paris_drawing
+[2023.05.14-18.57.40:469][945]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/paris_drawing2F6E1BD34E62BB8880118F8D9E5C1682.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/CustomMaterials/Images/paris_drawing.uasset'
+[2023.05.14-18.57.40:480][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 400 ms (total: 2.64 sec)
+[2023.05.14-18.57.40:555][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.05.14-18.57.40:615][945]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2023.05.14-18.57.40:668][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.05.14-18.57.40:675][945]AssetCheck: New page: Asset Save: paris_drawing
+[2023.05.14-18.57.40:676][945]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/CustomMaterials/Images/paris_drawing.paris_drawing
+[2023.05.14-19.01.07:256][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.05.14-19.01.07:263][115]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/MainMenu_Auto6
+[2023.05.14-19.01.07:263][115]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/MainMenu_Auto668D48E5B46A2510EAEB67BB157A1996F.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/Autosaves/Game/Levels/MainMenu_Auto6.umap'
+[2023.05.14-19.01.07:268][115]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainMenu' took 0.068
+[2023.05.14-19.01.07:268][115]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.068
+[2023.05.14-19.01.07:268][115]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/BP_MainMenu] ([2] browsable assets)...
+[2023.05.14-19.01.07:272][115]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/BP_MainMenu.BP_MainMenu]
+[2023.05.14-19.01.07:272][115]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/BP_MainMenu]
+[2023.05.14-19.01.07:276][115]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/BP_MainMenu_Auto6
+[2023.05.14-19.01.07:276][115]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_MainMenu_Auto600874FBF432C69CB972C109EECFE9BF1.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/Autosaves/Game/Blueprints/UI/BP_MainMenu_Auto6.uasset'
+[2023.05.14-19.01.07:277][115]LogFileHelpers: Auto-saving content packages took 0.010
+[2023.05.14-19.01.28:136][279]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.14-19.02.24:301][964]BlueprintLog: New page: Compile BP_MainMenu
+[2023.05.14-19.02.24:377][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.05.14-19.02.25:360][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-19.02.25:416][ 12]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/BP_MainMenu
+[2023.05.14-19.02.25:417][ 12]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_MainMenu795CA22043FAF3C5ABC623A54FC814DC.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/UI/BP_MainMenu.uasset'
+[2023.05.14-19.02.25:424][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 2.70 sec)
+[2023.05.14-19.02.25:432][ 12]AssetCheck: New page: Asset Save: BP_MainMenu
+[2023.05.14-19.02.25:432][ 12]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/BP_MainMenu.BP_MainMenu
+[2023.05.14-19.02.28:287][179]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.14-19.02.28:292][179]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.14-19.02.28:293][179]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2023.05.14-19.02.28:377][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.05.14-19.02.28:379][179]LogPlayLevel: PlayLevel: Blueprint regeneration took 86 ms (1 blueprints)
+[2023.05.14-19.02.28:379][179]PIE: New page: PIE session: MainMenu (14 May 2023, 21:02:28)
+[2023.05.14-19.02.28:379][179]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2023.05.14-19.02.28:381][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001118s)
+[2023.05.14-19.02.28:381][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001153s)
+[2023.05.14-19.02.28:381][179]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-19.02.28:381][179]LogAIModule: Creating AISystem for world MainMenu
+[2023.05.14-19.02.28:382][179]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2023.05.14-19.02.28:433][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.05.14-19.02.28:434][179]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.05.14-19.02.28:434][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.14-19.02.28:434][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.14-19.02.28:434][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.14-19.02.28:434][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.14-19.02.28:434][179]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.14-19.02.28:434][179]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.14-19.02.28:434][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.14-19.02.28:434][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.14-19.02.28:435][179]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.14-19.02.28:435][179]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.14-19.02.28:435][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.14-19.02.28:437][179]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.14-19.02.28:569][179]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.14-19.02.28:569][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.14-19.02.28:569][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.14-19.02.28:569][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.14-19.02.28:570][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.05.14-19.02.28:571][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.05.14-19.02.28:573][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.05.14-19.02.28:573][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.05.14-19.02.28:573][179]LogInit: FAudioDevice initialized.
+[2023.05.14-19.02.28:573][179]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu'.
+[2023.05.14-19.02.28:574][179]LogLoad: Game class is 'BP_MenuGameMode_C'
+[2023.05.14-19.02.28:576][179]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2023.05.14-20.02.28
+[2023.05.14-19.02.28:576][179]LogWorld: Bringing up level for play took: 0.000348
+[2023.05.14-19.02.28:578][179]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.05.14-19.02.28:580][179]PIE: Server logged in
+[2023.05.14-19.02.28:580][179]PIE: Play in editor total start time 0.288 seconds.
+[2023.05.14-19.02.29:591][239]LogNet: Browse: /Game/Levels/Level1
+[2023.05.14-19.02.29:592][239]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.05.14-19.02.29:592][239]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2023.05.14-19.02.29:593][239]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-19.02.29:593][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-19.02.29:644][239]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.14-19.02.29:647][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.05.14-19.02.29:691][239]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2023.05.14-19.02.29:691][239]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-19.02.29:692][239]LogAIModule: Creating AISystem for world Level1
+[2023.05.14-19.02.29:692][239]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2023.05.14-19.02.29:692][239]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.14-19.02.29:741][239]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.05.14-20.02.29
+[2023.05.14-19.02.29:744][239]LogWorld: Bringing up level for play took: 0.045608
+[2023.05.14-19.02.29:747][239]LogLoad: Took 0.155353 seconds to LoadMap(/Game/Levels/Level1)
+[2023.05.14-19.02.29:830][239]LogShaderCompilers: Display: ================================================
+[2023.05.14-19.02.29:830][239]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.14-19.02.29:830][239]LogShaderCompilers: Display: Total job queries 424, among them cache hits 100 (23.58%)
+[2023.05.14-19.02.29:830][239]LogShaderCompilers: Display: Tracking 324 distinct input hashes that result in 228 distinct outputs (70.37%)
+[2023.05.14-19.02.29:830][239]LogShaderCompilers: Display: RAM used: 2.79 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.17%
+[2023.05.14-19.02.29:830][239]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.14-19.02.29:830][239]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.14-19.02.29:831][239]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.14-19.02.29:831][239]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.14-19.02.29:831][239]LogShaderCompilers: Display: ================================================
+[2023.05.14-19.02.29:831][239]LogDerivedDataCache: Display: C:/Users/Silvia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 3efaf308a2679b48efc3a7af266192e0f90e0835 and existing hash a544a34176e280c234caf62d22c375613059e978 for MaterialShaderMap/84c599eed22554ed1429191e7926305baf16881a from '/Game/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass [PCD3D_SM6, SM6, Num]'
+[2023.05.14-19.02.30:042][240]LogD3D12RHI: Creating RTPSO with 228 shaders (0 cached, 1 new) took 20.76 ms. Compile time 16.67 ms, link time 4.03 ms.
+[2023.05.14-19.02.34:718][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-19.02.34:718][509]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.05.14-19.02.34:718][509]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-19.02.34:719][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-19.02.34:724][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.14-19.02.34:731][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-19.02.34:783][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-19.02.34:783][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.05.14-19.02.34:785][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.05.14-19.02.34:809][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.05.14-19.02.34:838][510]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.05.14-19.02.37:815][688]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.14-19.02.37:821][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.14-19.02.37:821][688]PIE: New page: PIE session: MainMenu (14 May 2023, 21:02:37)
+[2023.05.14-19.02.37:821][688]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2023.05.14-19.02.37:822][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000971s)
+[2023.05.14-19.02.37:822][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001007s)
+[2023.05.14-19.02.37:822][688]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-19.02.37:822][688]LogAIModule: Creating AISystem for world MainMenu
+[2023.05.14-19.02.37:822][688]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2023.05.14-19.02.37:876][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.05.14-19.02.37:879][688]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.05.14-19.02.37:879][688]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.14-19.02.37:879][688]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.14-19.02.37:879][688]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.14-19.02.37:879][688]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.14-19.02.37:879][688]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.14-19.02.37:879][688]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.14-19.02.37:879][688]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.14-19.02.37:879][688]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.14-19.02.37:879][688]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.14-19.02.37:879][688]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.14-19.02.37:879][688]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.14-19.02.37:881][688]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.14-19.02.38:023][688]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.14-19.02.38:023][688]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.14-19.02.38:023][688]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.14-19.02.38:023][688]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.14-19.02.38:024][688]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.05.14-19.02.38:024][688]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.05.14-19.02.38:026][688]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.05.14-19.02.38:026][688]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.05.14-19.02.38:026][688]LogInit: FAudioDevice initialized.
+[2023.05.14-19.02.38:026][688]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMenu'.
+[2023.05.14-19.02.38:029][688]LogLoad: Game class is 'BP_MenuGameMode_C'
+[2023.05.14-19.02.38:029][688]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2023.05.14-20.02.38
+[2023.05.14-19.02.38:030][688]LogWorld: Bringing up level for play took: 0.000293
+[2023.05.14-19.02.38:032][688]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.05.14-19.02.38:033][688]PIE: Server logged in
+[2023.05.14-19.02.38:034][688]PIE: Play in editor total start time 0.213 seconds.
+[2023.05.14-19.02.38:900][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-19.02.38:900][740]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2023.05.14-19.02.38:901][740]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-19.02.38:901][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-19.02.38:904][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.14-19.02.38:910][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-19.02.38:962][740]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.14-19.02.38:962][740]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.05.14-19.02.38:964][740]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.05.14-19.02.38:970][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-19.02.38:973][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.05.14-19.02.39:013][741]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.05.14-19.02.41:347][881]Cmd: SELECT NONE
+[2023.05.14-19.06.48:864][498]BlueprintLog: New page: Compile BP_MainMenu
+[2023.05.14-19.06.48:928][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.05.14-19.06.49:756][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-19.06.49:826][544]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/BP_MainMenu
+[2023.05.14-19.06.49:828][544]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_MainMenuC529529B4FFF5455899B9481603A2195.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/UI/BP_MainMenu.uasset'
+[2023.05.14-19.06.49:834][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 2.78 sec)
+[2023.05.14-19.06.49:842][544]AssetCheck: New page: Asset Save: BP_MainMenu
+[2023.05.14-19.06.49:842][544]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/BP_MainMenu.BP_MainMenu
+[2023.05.14-19.07.02:329][758]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.14-19.07.02:334][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.14-19.07.02:334][758]PIE: New page: PIE session: MainMenu (14 May 2023, 21:07:02)
+[2023.05.14-19.07.02:334][758]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2023.05.14-19.07.02:335][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001115s)
+[2023.05.14-19.07.02:335][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001158s)
+[2023.05.14-19.07.02:335][758]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-19.07.02:336][758]LogAIModule: Creating AISystem for world MainMenu
+[2023.05.14-19.07.02:336][758]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2023.05.14-19.07.02:392][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.05.14-19.07.02:395][758]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.05.14-19.07.02:395][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.14-19.07.02:395][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.14-19.07.02:395][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.14-19.07.02:395][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.14-19.07.02:395][758]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.14-19.07.02:395][758]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.14-19.07.02:395][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.14-19.07.02:395][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.14-19.07.02:395][758]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.14-19.07.02:395][758]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.14-19.07.02:395][758]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.14-19.07.02:397][758]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.14-19.07.02:530][758]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.14-19.07.02:530][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.14-19.07.02:530][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.14-19.07.02:530][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.14-19.07.02:531][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.05.14-19.07.02:531][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.05.14-19.07.02:532][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.05.14-19.07.02:532][758]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.05.14-19.07.02:533][758]LogInit: FAudioDevice initialized.
+[2023.05.14-19.07.02:533][758]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainMenu'.
+[2023.05.14-19.07.02:536][758]LogLoad: Game class is 'BP_MenuGameMode_C'
+[2023.05.14-19.07.02:537][758]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2023.05.14-20.07.02
+[2023.05.14-19.07.02:537][758]LogWorld: Bringing up level for play took: 0.000320
+[2023.05.14-19.07.02:541][758]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.05.14-19.07.02:543][758]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.14-19.07.02:543][758]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.05.14-19.07.02:543][758]PIE: Server logged in
+[2023.05.14-19.07.02:544][758]PIE: Play in editor total start time 0.21 seconds.
+[2023.05.14-19.07.12:390][872]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.14-19.07.12:390][872]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.14-19.07.12:391][872]LogNet: Browse: /Game/Levels/Level1
+[2023.05.14-19.07.12:391][872]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.05.14-19.07.12:391][872]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2023.05.14-19.07.12:391][872]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-19.07.12:391][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-19.07.12:442][872]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.14-19.07.12:444][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.05.14-19.07.12:480][872]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2023.05.14-19.07.12:480][872]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-19.07.12:481][872]LogAIModule: Creating AISystem for world Level1
+[2023.05.14-19.07.12:481][872]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2023.05.14-19.07.12:481][872]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.14-19.07.12:525][872]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.05.14-20.07.12
+[2023.05.14-19.07.12:527][872]LogWorld: Bringing up level for play took: 0.042290
+[2023.05.14-19.07.12:531][872]LogLoad: Took 0.140114 seconds to LoadMap(/Game/Levels/Level1)
+[2023.05.14-19.07.12:603][872]LogDerivedDataCache: Display: C:/Users/Silvia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 3efaf308a2679b48efc3a7af266192e0f90e0835 and existing hash a544a34176e280c234caf62d22c375613059e978 for MaterialShaderMap/84c599eed22554ed1429191e7926305baf16881a from '/Game/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass [PCD3D_SM6, SM6, Num]'
+[2023.05.14-19.07.12:604][872]LogShaderCompilers: Display: ================================================
+[2023.05.14-19.07.12:604][872]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.14-19.07.12:604][872]LogShaderCompilers: Display: Total job queries 562, among them cache hits 238 (42.35%)
+[2023.05.14-19.07.12:604][872]LogShaderCompilers: Display: Tracking 324 distinct input hashes that result in 228 distinct outputs (70.37%)
+[2023.05.14-19.07.12:604][872]LogShaderCompilers: Display: RAM used: 2.79 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.17%
+[2023.05.14-19.07.12:604][872]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.14-19.07.12:604][872]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.14-19.07.12:604][872]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.14-19.07.12:604][872]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.14-19.07.12:604][872]LogShaderCompilers: Display: ================================================
+[2023.05.14-19.07.18:340][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-19.07.18:340][193]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.05.14-19.07.18:340][193]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-19.07.18:342][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-19.07.18:349][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.14-19.07.18:356][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-19.07.18:408][193]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.14-19.07.18:409][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.14-19.07.18:410][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.14-19.07.18:429][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-19.07.18:433][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.05.14-19.07.18:464][194]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.05.14-19.07.40:767][410]LogEditorViewport: Clicking Background
+[2023.05.14-19.07.41:627][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-19.07.41:728][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.05.14-19.07.41:734][459]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu
+[2023.05.14-19.07.41:735][459]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/MainMenuCA27164A4DDABA243D0E86A6F422589D.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Levels/MainMenu.umap'
+[2023.05.14-19.07.41:743][459]LogFileHelpers: Saving map 'MainMenu' took 0.065
+[2023.05.14-19.07.41:752][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 2.91 sec)
+[2023.05.14-19.07.41:761][459]AssetCheck: New page: Asset Save: MainMenu
+[2023.05.14-19.07.41:761][459]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainMenu.MainMenu
