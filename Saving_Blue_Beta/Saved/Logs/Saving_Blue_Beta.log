@@ -2480,3 +2480,285 @@ Make sure 'BP_Clock_C' has been compiled for  Set character_reference
 [2023.05.14-19.07.41:752][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 2.91 sec)
 [2023.05.14-19.07.41:761][459]AssetCheck: New page: Asset Save: MainMenu
 [2023.05.14-19.07.41:761][459]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainMenu.MainMenu
+[2023.05.14-19.12.09:003][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.05.14-19.12.09:005][470]Cmd: MAP LOAD FILE="../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.14-19.12.09:005][470]LightingResults: New page: Lighting Build
+[2023.05.14-19.12.09:005][470]LoadErrors: New page: Loading map: Level1.umap
+[2023.05.14-19.12.09:020][470]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-19.12.09:020][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-19.12.09:065][470]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-19.12.09:065][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-19.12.09:066][470]MapCheck: New page: Map Check
+[2023.05.14-19.12.09:066][470]LightingResults: New page: Lighting Build
+[2023.05.14-19.12.09:111][470]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.14-19.12.09:117][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.14-19.12.09:146][470]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.05.14-19.12.09:146][470]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-19.12.09:146][470]LogAIModule: Creating AISystem for world Level1
+[2023.05.14-19.12.09:215][470]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.14-19.12.09:272][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.05.14-19.12.09:279][470]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.14-19.12.09:279][470]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
+[2023.05.14-19.12.09:280][470]LogFileHelpers: Loading map 'Level1' took 0.274
+[2023.05.14-19.12.09:280][470]LogSlate: Window 'Open Level' being destroyed
+[2023.05.14-19.12.09:414][470]LogShaderCompilers: Display: ================================================
+[2023.05.14-19.12.09:414][470]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.14-19.12.09:414][470]LogShaderCompilers: Display: Total job queries 702, among them cache hits 378 (53.85%)
+[2023.05.14-19.12.09:414][470]LogShaderCompilers: Display: Tracking 324 distinct input hashes that result in 228 distinct outputs (70.37%)
+[2023.05.14-19.12.09:414][470]LogShaderCompilers: Display: RAM used: 2.79 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.17%
+[2023.05.14-19.12.09:414][470]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.14-19.12.09:414][470]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.14-19.12.09:414][470]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.14-19.12.09:414][470]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.14-19.12.09:414][470]LogShaderCompilers: Display: ================================================
+[2023.05.14-19.12.09:416][470]LogDerivedDataCache: Display: C:/Users/Silvia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 3efaf308a2679b48efc3a7af266192e0f90e0835 and existing hash a544a34176e280c234caf62d22c375613059e978 for MaterialShaderMap/84c599eed22554ed1429191e7926305baf16881a from '/Game/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass [PCD3D_SM6, SM6, Num]'
+[2023.05.14-19.14.11:682][135]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.14-19.14.11:691][135]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.14-19.14.11:704][136]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.14-19.14.23:406][838]LogContentBrowser: Attempting asset rename: NewFolder -> SaveSystem
+[2023.05.14-19.14.23:407][838]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.14-19.14.41:503][287]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-19.14.41:504][287]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-19.14.41:504][287]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-19.14.48:746][287]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.14-19.14.48:756][287]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.05.14-19.14.48:764][287]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.05.14-19.14.48:793][289]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.05.14-19.15.12:286][408]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Save_Game_Object
+[2023.05.14-19.15.12:292][408]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.05.14-19.15.28:383][623]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-19.15.28:383][623]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-19.15.28:384][623]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-19.15.36:084][623]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.14-19.15.36:093][623]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.05.14-19.15.36:100][623]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.05.14-19.15.36:111][624]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.05.14-19.16.10:573][947]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_My_Game_Instance
+[2023.05.14-19.16.10:578][947]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.05.14-19.16.23:236][206]LogDerivedDataCache: C:/Users/Silvia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.156 and deleted 0 files with total size 0 MiB. Scanned 11685 files in 11392 folders with total size 2491 MiB.
+[2023.05.14-19.16.34:895][396]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2023.05.14-19.16.34:903][396]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2023.05.14-19.16.34:915][397]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2023.05.14-19.16.45:186][556]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> NewUserDefinedStruct
+[2023.05.14-19.16.45:221][556]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2023.05.14-19.17.03:201][597]LogContentBrowser: Attempting asset rename: BP_Save_Game_Object -> saveGameObject
+[2023.05.14-19.17.03:217][597]LogMetaData: Removing '/Game/SaveSystem/saveGameObject.SKEL_saveGameObject_C' ref from Metadata '/Game/SaveSystem/BP_Save_Game_Object.PackageMetaData'
+[2023.05.14-19.17.03:217][597]LogMetaData: Removing '/Game/SaveSystem/saveGameObject.saveGameObject_C' ref from Metadata '/Game/SaveSystem/BP_Save_Game_Object.PackageMetaData'
+[2023.05.14-19.17.03:217][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-19.17.03:278][597]LogSavePackage: Moving output files for package: /Game/SaveSystem/saveGameObject
+[2023.05.14-19.17.03:278][597]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/saveGameObjectF13E6004490D2AA58C374A8BB91C4C26.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/SaveSystem/saveGameObject.uasset'
+[2023.05.14-19.17.03:288][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 2.98 sec)
+[2023.05.14-19.17.03:367][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.05.14-19.17.03:421][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.05.14-19.17.03:467][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.05.14-19.17.03:475][597]AssetCheck: New page: Asset Save: saveGameObject
+[2023.05.14-19.17.03:475][597]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SaveSystem/saveGameObject.saveGameObject
+[2023.05.14-19.17.15:317][303]LogContentBrowser: Attempting asset rename: BP_My_Game_Instance -> myGameInstance
+[2023.05.14-19.17.15:333][303]LogMetaData: Removing '/Game/SaveSystem/myGameInstance.SKEL_myGameInstance_C' ref from Metadata '/Game/SaveSystem/BP_My_Game_Instance.PackageMetaData'
+[2023.05.14-19.17.15:333][303]LogMetaData: Removing '/Game/SaveSystem/myGameInstance.myGameInstance_C' ref from Metadata '/Game/SaveSystem/BP_My_Game_Instance.PackageMetaData'
+[2023.05.14-19.17.15:333][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-19.17.15:391][303]LogSavePackage: Moving output files for package: /Game/SaveSystem/myGameInstance
+[2023.05.14-19.17.15:391][303]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/myGameInstance479902A0473951EE9EEF288D7CC4E95A.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/SaveSystem/myGameInstance.uasset'
+[2023.05.14-19.17.15:399][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 3.04 sec)
+[2023.05.14-19.17.15:471][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.05.14-19.17.15:518][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.05.14-19.17.15:566][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.05.14-19.17.15:574][303]AssetCheck: New page: Asset Save: myGameInstance
+[2023.05.14-19.17.15:574][303]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SaveSystem/myGameInstance.myGameInstance
+[2023.05.14-19.17.32:049][ 82]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> playerSaveData
+[2023.05.14-19.17.32:066][ 82]LogMetaData: Removing '/Game/SaveSystem/playerSaveData.playerSaveData' ref from Metadata '/Game/SaveSystem/NewUserDefinedStruct.PackageMetaData'
+[2023.05.14-19.17.32:066][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-19.17.32:121][ 82]LogSavePackage: Moving output files for package: /Game/SaveSystem/playerSaveData
+[2023.05.14-19.17.32:121][ 82]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/playerSaveData75B0327D456508F460A5F696D5D3C01B.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/SaveSystem/playerSaveData.uasset'
+[2023.05.14-19.17.32:130][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 3.11 sec)
+[2023.05.14-19.17.32:202][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.05.14-19.17.32:254][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.05.14-19.17.32:305][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.05.14-19.17.32:314][ 82]AssetCheck: New page: Asset Save: playerSaveData
+[2023.05.14-19.17.32:314][ 82]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/SaveSystem/playerSaveData.playerSaveData
+[2023.05.14-19.17.47:771][282]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/SaveSystem/playerSaveData.playerSaveData
+[2023.05.14-19.19.47:826][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-19.19.47:875][952]LogSavePackage: Moving output files for package: /Game/SaveSystem/playerSaveData
+[2023.05.14-19.19.47:877][952]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/playerSaveDataFCE6710B49E1A687F2DB5B82D8552E21.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/SaveSystem/playerSaveData.uasset'
+[2023.05.14-19.19.47:883][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 3.16 sec)
+[2023.05.14-19.19.47:893][952]AssetCheck: New page: Asset Save: playerSaveData
+[2023.05.14-19.19.47:893][952]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/SaveSystem/playerSaveData.playerSaveData
+[2023.05.14-19.20.21:210][723]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-19.20.21:210][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-19.20.21:922][755]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-19.20.21:922][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-19.20.21:932][755]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-19.20.21:932][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-19.20.25:012][923]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SaveSystem/saveGameObject.saveGameObject
+[2023.05.14-19.20.25:013][923]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-19.21.43:852][983]BlueprintLog: New page: Compile saveGameObject
+[2023.05.14-19.21.43:960][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.05.14-19.21.44:781][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-19.21.44:848][ 27]LogSavePackage: Moving output files for package: /Game/SaveSystem/saveGameObject
+[2023.05.14-19.21.44:849][ 27]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/saveGameObject2DD70C7441A0A496462991854325C015.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/SaveSystem/saveGameObject.uasset'
+[2023.05.14-19.21.44:858][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 3.24 sec)
+[2023.05.14-19.21.44:864][ 27]AssetCheck: New page: Asset Save: saveGameObject
+[2023.05.14-19.21.44:864][ 27]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SaveSystem/saveGameObject.saveGameObject
+[2023.05.14-19.22.15:438][ 78]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SaveSystem/myGameInstance.myGameInstance
+[2023.05.14-19.22.15:438][ 78]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-19.23.46:664][117]BlueprintLog: New page: Compile myGameInstance
+[2023.05.14-19.23.46:759][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.05.14-19.23.47:576][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-19.23.47:644][161]LogSavePackage: Moving output files for package: /Game/SaveSystem/myGameInstance
+[2023.05.14-19.23.47:646][161]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/myGameInstance8066CB974DC4F0C97ED654B3C0594145.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/SaveSystem/myGameInstance.uasset'
+[2023.05.14-19.23.47:658][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 3.32 sec)
+[2023.05.14-19.23.47:664][161]AssetCheck: New page: Asset Save: myGameInstance
+[2023.05.14-19.23.47:664][161]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SaveSystem/myGameInstance.myGameInstance
+[2023.05.14-19.24.17:180][906]BlueprintLog: New page: Compile myGameInstance
+[2023.05.14-19.24.17:223][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.05.14-19.24.18:175][958]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-19.24.18:243][958]LogSavePackage: Moving output files for package: /Game/SaveSystem/myGameInstance
+[2023.05.14-19.24.18:244][958]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/myGameInstance5DF3F5CF4B3A67A79E541894C7F47BAC.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/SaveSystem/myGameInstance.uasset'
+[2023.05.14-19.24.18:251][958]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 3.40 sec)
+[2023.05.14-19.24.18:258][958]AssetCheck: New page: Asset Save: myGameInstance
+[2023.05.14-19.24.18:258][958]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SaveSystem/myGameInstance.myGameInstance
+[2023.05.14-19.24.56:758][137]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-19.24.56:758][137]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-19.24.56:758][137]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.14-19.28.48:955][413]BlueprintLog: New page: Compile myGameInstance
+[2023.05.14-19.28.48:995][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.05.14-19.28.49:934][464]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-19.28.50:009][464]LogSavePackage: Moving output files for package: /Game/SaveSystem/myGameInstance
+[2023.05.14-19.28.50:010][464]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/myGameInstance196EBEF84C91458F3924A28AA9D804CC.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/SaveSystem/myGameInstance.uasset'
+[2023.05.14-19.28.50:018][464]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 3.48 sec)
+[2023.05.14-19.28.50:024][464]AssetCheck: New page: Asset Save: myGameInstance
+[2023.05.14-19.28.50:024][464]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SaveSystem/myGameInstance.myGameInstance
+[2023.05.14-19.31.08:247][909]BlueprintLog: New page: Compile myGameInstance
+[2023.05.14-19.31.08:285][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.05.14-19.31.09:207][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-19.31.09:264][961]LogSavePackage: Moving output files for package: /Game/SaveSystem/myGameInstance
+[2023.05.14-19.31.09:266][961]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/myGameInstance3857F37F452CD53693E5A1870ADEA963.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/SaveSystem/myGameInstance.uasset'
+[2023.05.14-19.31.09:273][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 3.55 sec)
+[2023.05.14-19.31.09:280][961]AssetCheck: New page: Asset Save: myGameInstance
+[2023.05.14-19.31.09:280][961]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SaveSystem/myGameInstance.myGameInstance
+[2023.05.14-19.32.41:588][783]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(735)].
+[2023.05.14-19.32.41:643][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.14-19.32.41:649][783]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.043
+[2023.05.14-19.32.41:649][783]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SaveSystem/myGameInstance] ([2] browsable assets)...
+[2023.05.14-19.32.41:649][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/SaveSystem/myGameInstance]
+[2023.05.14-19.32.41:656][783]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SaveSystem/myGameInstance_Auto7
+[2023.05.14-19.32.41:656][783]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/myGameInstance_Auto713CCE98848921AEEBF762A821C9B38C1.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/Autosaves/Game/SaveSystem/myGameInstance_Auto7.uasset'
+[2023.05.14-19.32.41:656][783]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.05.14-19.33.44:726][566]BlueprintLog: New page: Compile myGameInstance
+[2023.05.14-19.33.44:764][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.05.14-19.33.45:471][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-19.33.45:545][603]LogSavePackage: Moving output files for package: /Game/SaveSystem/myGameInstance
+[2023.05.14-19.33.45:547][603]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/myGameInstance66B3B5414D48F2711435C39ABB51BBAD.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/SaveSystem/myGameInstance.uasset'
+[2023.05.14-19.33.45:556][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 3.63 sec)
+[2023.05.14-19.33.45:562][603]AssetCheck: New page: Asset Save: myGameInstance
+[2023.05.14-19.33.45:562][603]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SaveSystem/myGameInstance.myGameInstance
+[2023.05.14-19.34.41:729][429]LogEditorTransaction: Undo Move Node
+[2023.05.14-19.34.45:573][636]LogEditorTransaction: Undo Add Node
+[2023.05.14-19.35.43:459][651]BlueprintLog: New page: Compile myGameInstance
+[2023.05.14-19.35.43:501][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.05.14-19.42.42:142][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.05.14-19.42.42:147][715]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.047
+[2023.05.14-19.42.42:148][715]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SaveSystem/myGameInstance] ([2] browsable assets)...
+[2023.05.14-19.42.42:148][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/SaveSystem/myGameInstance]
+[2023.05.14-19.42.42:154][715]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SaveSystem/myGameInstance_Auto8
+[2023.05.14-19.42.42:154][715]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/myGameInstance_Auto8006402204F725B40DDA4338D35B316A1.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/Autosaves/Game/SaveSystem/myGameInstance_Auto8.uasset'
+[2023.05.14-19.42.42:157][715]LogFileHelpers: Auto-saving content packages took 0.009
+[2023.05.14-19.45.16:082][861]BlueprintLog: New page: Compile myGameInstance
+[2023.05.14-19.45.16:125][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.05.14-19.45.16:896][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-19.45.16:976][902]LogSavePackage: Moving output files for package: /Game/SaveSystem/myGameInstance
+[2023.05.14-19.45.16:978][902]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/myGameInstance5DD7E0A84A0E96154B2A96B6F13AA05B.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/SaveSystem/myGameInstance.uasset'
+[2023.05.14-19.45.16:986][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 3.72 sec)
+[2023.05.14-19.45.16:993][902]AssetCheck: New page: Asset Save: myGameInstance
+[2023.05.14-19.45.16:993][902]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SaveSystem/myGameInstance.myGameInstance
+[2023.05.14-19.50.38:052][619]BlueprintLog: New page: Compile myGameInstance
+[2023.05.14-19.50.38:100][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.05.14-19.50.38:988][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-19.50.39:061][671]LogSavePackage: Moving output files for package: /Game/SaveSystem/myGameInstance
+[2023.05.14-19.50.39:062][671]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/myGameInstance7ED783CB4A6E0DA8B0F436B1A2B412DF.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/SaveSystem/myGameInstance.uasset'
+[2023.05.14-19.50.39:070][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 3.81 sec)
+[2023.05.14-19.50.39:077][671]AssetCheck: New page: Asset Save: myGameInstance
+[2023.05.14-19.50.39:077][671]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SaveSystem/myGameInstance.myGameInstance
+[2023.05.14-19.51.10:836][694]BlueprintLog: New page: Compile myGameInstance
+[2023.05.14-19.51.10:876][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.05.14-19.51.11:566][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-19.51.11:639][730]LogSavePackage: Moving output files for package: /Game/SaveSystem/myGameInstance
+[2023.05.14-19.51.11:640][730]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/myGameInstanceAC47C6FD4E62F21B27BBC3ABE513740E.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/SaveSystem/myGameInstance.uasset'
+[2023.05.14-19.51.11:648][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 3.89 sec)
+[2023.05.14-19.51.11:654][730]AssetCheck: New page: Asset Save: myGameInstance
+[2023.05.14-19.51.11:655][730]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SaveSystem/myGameInstance.myGameInstance
+[2023.05.14-19.53.21:085][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.05.14-19.53.21:089][189]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.043
+[2023.05.14-19.53.21:089][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SaveSystem/myGameInstance] ([2] browsable assets)...
+[2023.05.14-19.53.21:089][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/SaveSystem/myGameInstance]
+[2023.05.14-19.53.21:098][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SaveSystem/myGameInstance_Auto9
+[2023.05.14-19.53.21:098][189]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/myGameInstance_Auto9E37ADF614DC195CC6D26278CB4FF99AB.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/Autosaves/Game/SaveSystem/myGameInstance_Auto9.uasset'
+[2023.05.14-19.53.21:099][189]LogFileHelpers: Auto-saving content packages took 0.011
+[2023.05.14-19.55.23:391][118]BlueprintLog: New page: Compile myGameInstance
+[2023.05.14-19.55.23:435][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.14-19.55.24:142][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-19.55.24:211][155]LogSavePackage: Moving output files for package: /Game/SaveSystem/myGameInstance
+[2023.05.14-19.55.24:213][155]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/myGameInstance121E4BCF48AD3C1F4BA79B9E4FD72876.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/SaveSystem/myGameInstance.uasset'
+[2023.05.14-19.55.24:221][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 3.97 sec)
+[2023.05.14-19.55.24:227][155]AssetCheck: New page: Asset Save: myGameInstance
+[2023.05.14-19.55.24:227][155]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SaveSystem/myGameInstance.myGameInstance
+[2023.05.14-19.56.03:380][780]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.05.14-19.56.03:380][780]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-19.57.08:074][ 81]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.05.14-19.57.08:141][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.14-19.57.08:685][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.14-19.57.08:786][105]LogSavePackage: Moving output files for package: /Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.05.14-19.57.08:787][105]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_ThirdPersonCharacterC8A1710C4C3CFE7FAF7BFDB7E93C671E.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.05.14-19.57.08:797][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 4.08 sec)
+[2023.05.14-19.57.08:801][105]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.05.14-19.57.08:801][105]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.05.14-19.57.10:756][208]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.14-19.57.10:761][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.14-19.57.10:761][208]PIE: New page: PIE session: Level1 (14 May 2023, 21:57:10)
+[2023.05.14-19.57.10:785][208]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.05.14-19.57.10:800][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014838s)
+[2023.05.14-19.57.10:800][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.014885s)
+[2023.05.14-19.57.10:800][208]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-19.57.10:801][208]LogAIModule: Creating AISystem for world Level1
+[2023.05.14-19.57.10:801][208]LogPlayLevel: PIE: World Init took: (0.001055s)
+[2023.05.14-19.57.10:842][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.05.14-19.57.10:845][208]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.05.14-19.57.10:845][208]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.14-19.57.10:845][208]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.14-19.57.10:845][208]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.14-19.57.10:845][208]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.14-19.57.10:845][208]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.14-19.57.10:845][208]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.14-19.57.10:845][208]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.14-19.57.10:845][208]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.14-19.57.10:845][208]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.14-19.57.10:846][208]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.14-19.57.10:846][208]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.14-19.57.10:848][208]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.14-19.57.10:972][208]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.14-19.57.10:972][208]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.14-19.57.10:972][208]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.14-19.57.10:972][208]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.14-19.57.10:974][208]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.05.14-19.57.10:974][208]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.05.14-19.57.10:976][208]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.05.14-19.57.10:976][208]LogInit: FAudioDevice initialized.
+[2023.05.14-19.57.10:976][208]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.05.14-19.57.10:976][208]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level1'.
+[2023.05.14-19.57.10:980][208]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.14-19.57.10:987][208]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.05.14-20.57.10
+[2023.05.14-19.57.10:989][208]LogWorld: Bringing up level for play took: 0.008844
+[2023.05.14-19.57.10:991][208]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.05.14-19.57.10:994][208]PIE: Server logged in
+[2023.05.14-19.57.10:995][208]PIE: Play in editor total start time 0.234 seconds.
+[2023.05.14-19.57.14:416][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-19.57.14:416][405]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.05.14-19.57.14:416][405]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-19.57.14:417][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-19.57.14:423][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.14-19.57.14:427][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-19.57.14:467][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-19.57.14:468][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.05.14-19.57.14:470][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.05.14-19.57.14:491][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.05.14-19.57.14:533][406]LogPlayLevel: Display: Destroying online subsystem :Context_30
