@@ -1610,3 +1610,49 @@ LogInit: Object subsystem initialized
 [2023.05.16-21.14.55:437][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 226 ms (total: 813 ms)
 [2023.05.16-21.14.55:445][934]AssetCheck: New page: Asset Save: Level1
 [2023.05.16-21.14.55:446][934]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level1.Level1
+[2023.05.16-21.16.08:262][461]LogDerivedDataCache: C:/Users/Silvia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.163 and deleted 0 files with total size 0 MiB. Scanned 12065 files in 11754 folders with total size 2504 MiB.
+[2023.05.16-21.19.19:232][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.16-21.19.19:318][202]LogSavePackage: Moving output files for package: /Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.05.16-21.19.19:318][202]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_ThirdPersonCharacter42BCBDCF4AC539662A44BE966182B9B4.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.05.16-21.19.19:326][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 907 ms)
+[2023.05.16-21.19.19:339][202]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.05.16-21.19.19:339][202]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.05.16-21.19.21:161][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.16-21.19.21:273][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.05.16-21.19.21:341][300]LogSavePackage: Moving output files for package: /Game/Levels/Level1
+[2023.05.16-21.19.21:343][300]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/Level130E5319E42D09985CF6CF7BD2CE9F657.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Levels/Level1.umap'
+[2023.05.16-21.19.21:350][300]LogFileHelpers: Saving map 'Level1' took 0.131
+[2023.05.16-21.19.21:358][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 1.10 sec)
+[2023.05.16-21.19.21:366][300]AssetCheck: New page: Asset Save: Level1
+[2023.05.16-21.19.21:366][300]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level1.Level1
+[2023.05.16-21.19.21:844][327]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.05.16-21.19.22:739][366]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.16-21.19.22:792][366]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/BP_Clock
+[2023.05.16-21.19.22:793][366]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_Clock7032D52D44FD1940333854BB2E004BBD.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/UI/BP_Clock.uasset'
+[2023.05.16-21.19.22:800][366]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1.16 sec)
+[2023.05.16-21.19.22:806][366]AssetCheck: New page: Asset Save: BP_Clock
+[2023.05.16-21.19.22:806][366]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/BP_Clock.BP_Clock
+[2023.05.16-21.19.24:337][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.16-21.19.24:399][455]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/BP_EndGame
+[2023.05.16-21.19.24:400][455]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_EndGame530868CF457DE9212C940BA6F8A4468F.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/UI/BP_EndGame.uasset'
+[2023.05.16-21.19.24:407][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.23 sec)
+[2023.05.16-21.19.24:413][455]AssetCheck: New page: Asset Save: BP_EndGame
+[2023.05.16-21.19.24:413][455]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/UI/BP_EndGame.BP_EndGame
+[2023.05.16-21.19.26:115][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.16-21.19.26:184][557]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/BP_GameOver
+[2023.05.16-21.19.26:186][557]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_GameOver0A96F7274C38E614B96C368274B75523.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/UI/BP_GameOver.uasset'
+[2023.05.16-21.19.26:194][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 1.31 sec)
+[2023.05.16-21.19.26:200][557]AssetCheck: New page: Asset Save: BP_GameOver
+[2023.05.16-21.19.26:200][557]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/BP_GameOver.BP_GameOver
+[2023.05.16-21.19.27:683][646]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.16-21.19.27:741][646]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/BP_EndGameWidget
+[2023.05.16-21.19.27:742][646]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_EndGameWidgetC643A3E346CBE0EC367B81967985ED7B.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/UI/BP_EndGameWidget.uasset'
+[2023.05.16-21.19.27:753][646]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.38 sec)
+[2023.05.16-21.19.27:759][646]AssetCheck: New page: Asset Save: BP_EndGameWidget
+[2023.05.16-21.19.27:759][646]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/BP_EndGameWidget.BP_EndGameWidget
+[2023.05.16-21.19.29:595][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.16-21.19.29:661][751]LogSavePackage: Moving output files for package: /Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.05.16-21.19.29:662][751]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_ThirdPersonCharacterA006368A48E8619D24507E8284E18131.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.05.16-21.19.29:681][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1.46 sec)
+[2023.05.16-21.19.29:687][751]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.05.16-21.19.29:688][751]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
