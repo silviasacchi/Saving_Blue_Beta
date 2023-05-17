@@ -4019,3 +4019,1128 @@ LogInit: Object subsystem initialized
 [2023.05.17-07.27.57:274][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 217 ms (total: 1.07 sec)
 [2023.05.17-07.27.57:279][666]AssetCheck: New page: Asset Save: Level1
 [2023.05.17-07.27.57:279][666]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level1.Level1
+[2023.05.17-07.29.35:496][989]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.17-07.29.35:516][989]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.17-07.29.35:526][990]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.17-07.29.40:235][273]LogContentBrowser: Attempting asset rename: NewFolder -> Applea
+[2023.05.17-07.29.40:236][273]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.17-07.29.46:800][644]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.17-07.29.46:800][644]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.17-07.29.46:800][644]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.17-07.29.47:636][644]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.17-07.29.47:647][644]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.05.17-07.29.47:655][644]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.05.17-07.29.47:686][646]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.05.17-07.29.52:809][954]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_apples
+[2023.05.17-07.29.52:814][954]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.05.17-07.29.55:194][ 96]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.17-07.29.55:194][ 96]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.29.55:194][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-07.29.59:090][286]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Applea/BP_apples.BP_apples
+[2023.05.17-07.29.59:091][286]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-07.29.59:631][286]LogViewport: Scene viewport resized to 1053x686, mode Windowed.
+[2023.05.17-07.30.01:363][383]LogViewport: Scene viewport resized to 1050x705, mode Windowed.
+[2023.05.17-07.30.01:463][385]LogViewport: Scene viewport resized to 535x305, mode Windowed.
+[2023.05.17-07.30.01:490][386]LogViewport: Scene viewport resized to 431x223, mode Windowed.
+[2023.05.17-07.30.01:886][409]LogViewport: Scene viewport resized to 1053x686, mode Windowed.
+[2023.05.17-07.30.02:358][437]LogSlate: Window 'BP_apples' being destroyed
+[2023.05.17-07.30.07:086][716]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WaterCollision/WaterPlane_Blueprint.WaterPlane_Blueprint
+[2023.05.17-07.30.07:087][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-07.30.24:653][ 79]LogHttp: Warning: 0000095D47DE6400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCAAEBA50-4F50-1378-86FA-708E90D1C511%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=c89217224706420ca05fc8aac8647905%7Cc912808a111740e18552004b0debbab0%7Cd11eb731-f24a-48fe-bb75-6df143b8f2ce&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.05.17-07.30.24:653][ 79]LogHttp: Warning: 0000095D47DE6400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.05.17-07.30.24:653][ 79]LogHttp: Warning: 0000095D47DE6400: libcurl info message cache 0 (Found bundle for host: 0x95cd9160000 [serially])
+[2023.05.17-07.30.24:653][ 79]LogHttp: Warning: 0000095D47DE6400: libcurl info message cache 1 (Re-using existing connection #0 with host datarouter.ol.epicgames.com)
+[2023.05.17-07.30.24:653][ 79]LogHttp: Warning: 0000095D47DE6400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.206.164.149) port 443 (#0))
+[2023.05.17-07.30.24:653][ 79]LogHttp: Warning: 0000095D47DE6400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.05.17-07.30.24:653][ 79]LogHttp: Warning: 0000095D47DE6400: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.05.17-07.30.24:653][ 79]LogHttp: Warning: 0000095D47DE6400: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.05.17-07.30.24:653][ 79]LogHttp: Warning: 0000095D47DE6400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.05.17-07.30.24:653][ 79]LogHttp: Warning: 0000095D47DE6400: libcurl info message cache 7 (Closing connection 0)
+[2023.05.17-07.30.24:653][ 79]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCAAEBA50-4F50-1378-86FA-708E90D1C511%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=c89217224706420ca05fc8aac8647905%7Cc912808a111740e18552004b0debbab0%7Cd11eb731-f24a-48fe-bb75-6df143b8f2ce&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.05.17-07.30.43:478][168]LogShaderCompilers: Display: ================================================
+[2023.05.17-07.30.43:478][168]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.17-07.30.43:478][168]LogShaderCompilers: Display: Total job queries 386, among them cache hits 21 (5.44%)
+[2023.05.17-07.30.43:478][168]LogShaderCompilers: Display: Tracking 365 distinct input hashes that result in 243 distinct outputs (66.58%)
+[2023.05.17-07.30.43:478][168]LogShaderCompilers: Display: RAM used: 3.05 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.19%
+[2023.05.17-07.30.43:478][168]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.17-07.30.43:478][168]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.17-07.30.43:478][168]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.17-07.30.43:478][168]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.17-07.30.43:478][168]LogShaderCompilers: Display: ================================================
+[2023.05.17-07.30.49:234][510]BlueprintLog: New page: Compile BP_apples
+[2023.05.17-07.30.49:347][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.17-07.30.50:456][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.17-07.30.50:548][570]LogSavePackage: Moving output files for package: /Game/Blueprints/Applea/BP_apples
+[2023.05.17-07.30.50:548][570]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_apples20EE116846898C36FC814AA40008C58D.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/Applea/BP_apples.uasset'
+[2023.05.17-07.30.50:556][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1.17 sec)
+[2023.05.17-07.30.50:562][570]AssetCheck: New page: Asset Save: BP_apples
+[2023.05.17-07.30.50:562][570]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Applea/BP_apples.BP_apples
+[2023.05.17-07.31.53:320][323]LogContentBrowser: Attempting asset rename: Applea -> Apples
+[2023.05.17-07.31.53:354][323]LogMetaData: Removing '/Game/Blueprints/Apples/BP_apples.BP_apples:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Applea/BP_apples.PackageMetaData'
+[2023.05.17-07.31.53:354][323]LogMetaData: Removing '/Game/Blueprints/Apples/BP_apples.SKEL_BP_apples_C' ref from Metadata '/Game/Blueprints/Applea/BP_apples.PackageMetaData'
+[2023.05.17-07.31.53:354][323]LogMetaData: Removing '/Game/Blueprints/Apples/BP_apples.BP_apples_C' ref from Metadata '/Game/Blueprints/Applea/BP_apples.PackageMetaData'
+[2023.05.17-07.31.53:354][323]LogMetaData: Removing '/Game/Blueprints/Apples/BP_apples.BP_apples:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Applea/BP_apples.PackageMetaData'
+[2023.05.17-07.31.53:354][323]LogMetaData: Removing '/Game/Blueprints/Apples/BP_apples.BP_apples:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Applea/BP_apples.PackageMetaData'
+[2023.05.17-07.31.53:354][323]LogMetaData: Removing '/Game/Blueprints/Apples/BP_apples.BP_apples:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Applea/BP_apples.PackageMetaData'
+[2023.05.17-07.31.53:354][323]LogMetaData: Removing '/Game/Blueprints/Apples/BP_apples.SKEL_BP_apples_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Applea/BP_apples.PackageMetaData'
+[2023.05.17-07.31.53:354][323]LogMetaData: Removing '/Game/Blueprints/Apples/BP_apples.SKEL_BP_apples_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Applea/BP_apples.PackageMetaData'
+[2023.05.17-07.31.53:354][323]LogMetaData: Removing '/Game/Blueprints/Apples/BP_apples.SKEL_BP_apples_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Applea/BP_apples.PackageMetaData'
+[2023.05.17-07.31.53:354][323]LogMetaData: Removing '/Game/Blueprints/Apples/BP_apples.SKEL_BP_apples_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Applea/BP_apples.PackageMetaData'
+[2023.05.17-07.31.53:355][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.17-07.31.53:429][323]LogSavePackage: Moving output files for package: /Game/Blueprints/Apples/BP_apples
+[2023.05.17-07.31.53:429][323]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_apples3754279C42A0F1FE276344BA701F02A8.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/Apples/BP_apples.uasset'
+[2023.05.17-07.31.53:436][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1.25 sec)
+[2023.05.17-07.31.53:530][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.17-07.31.53:571][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.05.17-07.31.53:611][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.05.17-07.31.53:636][323]AssetCheck: New page: Asset Save: BP_apples
+[2023.05.17-07.31.53:636][323]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples
+[2023.05.17-07.32.13:693][493]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.32.13:693][493]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.32.13:695][493]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_0
+[2023.05.17-07.32.13:696][493]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_0
+[2023.05.17-07.32.14:634][548]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.32.14:634][548]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.32.14:636][548]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_1
+[2023.05.17-07.32.14:637][548]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_1
+[2023.05.17-07.32.14:672][549]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.15:364][590]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.15:396][592]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.15:446][595]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.15:871][619]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.19:994][865]Cmd: DELETE
+[2023.05.17-07.32.20:004][865]Cmd: ACTOR DELETE
+[2023.05.17-07.32.20:013][865]LogBlueprint: Warning: [AssetLog] C:\Users\Silvia\OneDrive - Dundalk Institute of Technology\Desktop\Saving_Blue_Beta\Saving_Blue_Beta\Saved\Autosaves\Game\Levels\Level1_Auto1.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2023.05.17-07.32.20:013][865]LogBlueprint: Error: [AssetLog] C:\Users\Silvia\OneDrive - Dundalk Institute of Technology\Desktop\Saving_Blue_Beta\Saving_Blue_Beta\Saved\Autosaves\Game\Levels\Level1_Auto1.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2023.05.17-07.32.20:020][865]LogUObjectGlobals: Warning: Guid referenced by Landscape /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1 is already used by Landscape /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:020][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_0 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:020][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_1 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:020][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_10 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_10, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:020][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_11 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_11, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:020][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_12 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_12, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:020][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_13 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_13, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:020][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_14 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_14, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:020][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_15 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_15, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:020][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_16 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_16, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:020][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_17 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_17, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:020][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_18 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_18, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:020][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_19 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_19, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_2 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_2, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_20 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_20, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_21 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_21, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_22 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_22, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_23 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_23, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_24 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_24, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_25 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_25, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_26 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_26, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_27 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_27, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_28 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_28, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_29 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_29, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_3 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_3, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_30 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_30, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_31 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_31, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_32 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_32, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_33 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_33, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_34 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_34, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_35 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_35, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_36 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_36, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_37 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_37, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_38 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_38, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_39 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_39, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_4 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_4, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_40 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_40, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_41 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_41, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_42 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_42, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_43 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_43, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_44 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_44, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_45 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_45, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_46 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_46, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_47 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_47, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_48 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_48, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_49 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_49, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:021][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_5 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_5, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_50 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_50, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_51 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_51, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_52 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_52, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_53 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_53, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_54 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_54, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_55 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_55, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_56 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_56, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_57 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_57, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_58 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_58, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_59 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_59, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_6 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_6, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_60 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_60, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_61 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_61, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_62 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_62, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_63 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_63, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_7 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_7, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_8 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_8, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_9 is already used by LandscapeComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeComponent_9, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_0 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_1 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_10 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_10, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_11 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_11, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_12 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_12, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_13 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_13, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_14 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_14, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_15 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_15, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_16 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_16, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_17 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_17, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_18 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_18, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_19 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_19, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_2 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_2, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_20 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_20, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_21 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_21, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_22 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_22, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_23 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_23, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_24 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_24, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_25 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_25, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_26 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_26, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_27 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_27, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_28 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_28, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_29 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_29, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_3 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_3, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_30 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_30, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_31 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_31, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_32 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_32, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_33 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_33, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_34 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_34, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_35 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_35, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:022][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_36 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_36, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_37 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_37, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_38 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_38, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_39 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_39, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_4 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_4, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_40 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_40, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_41 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_41, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_42 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_42, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_43 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_43, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_44 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_44, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_45 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_45, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_46 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_46, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_47 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_47, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_48 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_48, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_49 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_49, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_5 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_5, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_50 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_50, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_51 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_51, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_52 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_52, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_53 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_53, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_54 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_54, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_55 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_55, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_56 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_56, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_57 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_57, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_58 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_58, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_59 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_59, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_6 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_6, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_60 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_60, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_61 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_61, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_62 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_62, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_63 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_63, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_7 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_7, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_8 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_8, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:023][865]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_9 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/Level1.Level1:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_9, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.17-07.32.20:065][865]LogEditorActor: Deleted Actor: BP_apples_C
+[2023.05.17-07.32.20:105][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.05.17-07.32.20:112][865]LogEditorActor: Deleted 1 Actors (0.107 secs)
+[2023.05.17-07.32.20:128][866]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.23:630][ 66]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.32.23:630][ 66]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.32.23:631][ 66]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_2
+[2023.05.17-07.32.23:632][ 66]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_2
+[2023.05.17-07.32.23:793][ 75]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.32.23:793][ 75]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.32.23:795][ 75]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_3
+[2023.05.17-07.32.23:795][ 75]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_3
+[2023.05.17-07.32.24:617][124]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.32.24:617][124]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.32.24:620][124]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_4
+[2023.05.17-07.32.24:621][124]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_4
+[2023.05.17-07.32.24:644][125]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.25:350][167]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.25:574][177]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.26:114][191]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.27:047][247]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.28:549][337]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.28:986][362]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.38:259][913]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.42:153][141]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.42:220][145]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.42:520][163]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.42:903][186]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.43:753][237]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.44:074][255]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.45:441][337]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.17-07.32.45:448][337]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.17-07.32.45:448][337]LogPlayLevel: [PlayLevel] Compiling Level1_Auto1 before play...
+[2023.05.17-07.32.45:454][337]LogBlueprint: Warning: [AssetLog] C:\Users\Silvia\OneDrive - Dundalk Institute of Technology\Desktop\Saving_Blue_Beta\Saving_Blue_Beta\Saved\Autosaves\Game\Levels\Level1_Auto1.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2023.05.17-07.32.45:455][337]LogBlueprint: Error: [AssetLog] C:\Users\Silvia\OneDrive - Dundalk Institute of Technology\Desktop\Saving_Blue_Beta\Saving_Blue_Beta\Saved\Autosaves\Game\Levels\Level1_Auto1.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2023.05.17-07.32.45:527][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.17-07.32.45:530][337]LogPlayLevel: PlayLevel: Blueprint regeneration took 82 ms (1 blueprints)
+[2023.05.17-07.32.45:530][337]BlueprintLog: Warning: Blueprint failed to compile:  Level1_Auto1
+[2023.05.17-07.32.49:450][337]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.05.17-07.32.51:708][453]LogSlate: Window 'Message Log' being destroyed
+[2023.05.17-07.32.51:716][453]LogSlate: Window 'Message Log' being destroyed
+[2023.05.17-07.32.52:269][486]LogViewport: Scene viewport resized to 1053x685, mode Windowed.
+[2023.05.17-07.32.53:373][551]BlueprintLog: New page: Compile BP_apples
+[2023.05.17-07.32.53:436][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.17-07.32.53:487][552]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.32.54:281][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.17-07.32.54:329][597]LogSavePackage: Moving output files for package: /Game/Blueprints/Apples/BP_apples
+[2023.05.17-07.32.54:330][597]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_applesB5E329A74FA2005FA8BEA4A611CAD922.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/Apples/BP_apples.uasset'
+[2023.05.17-07.32.54:339][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 1.31 sec)
+[2023.05.17-07.32.54:344][597]AssetCheck: New page: Asset Save: BP_apples
+[2023.05.17-07.32.54:344][597]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples
+[2023.05.17-07.32.56:664][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.17-07.32.56:758][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.05.17-07.32.56:851][736]LogSavePackage: Moving output files for package: /Game/Levels/Level1
+[2023.05.17-07.32.56:852][736]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/Level169E9E59F4406A8D7B94937BFFC1F2A01.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Levels/Level1.umap'
+[2023.05.17-07.32.56:862][736]LogFileHelpers: Saving map 'Level1' took 0.143
+[2023.05.17-07.32.56:868][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms (total: 1.51 sec)
+[2023.05.17-07.32.56:875][736]AssetCheck: New page: Asset Save: Level1
+[2023.05.17-07.32.56:875][736]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level1.Level1
+[2023.05.17-07.32.58:523][834]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.17-07.32.58:529][834]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.17-07.32.58:529][834]LogPlayLevel: [PlayLevel] Compiling Level1_Auto1 before play...
+[2023.05.17-07.32.58:530][834]LogBlueprint: Warning: [AssetLog] C:\Users\Silvia\OneDrive - Dundalk Institute of Technology\Desktop\Saving_Blue_Beta\Saving_Blue_Beta\Saved\Autosaves\Game\Levels\Level1_Auto1.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2023.05.17-07.32.58:530][834]LogBlueprint: Error: [AssetLog] C:\Users\Silvia\OneDrive - Dundalk Institute of Technology\Desktop\Saving_Blue_Beta\Saving_Blue_Beta\Saved\Autosaves\Game\Levels\Level1_Auto1.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2023.05.17-07.32.58:607][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.05.17-07.32.58:608][834]LogPlayLevel: PlayLevel: Blueprint regeneration took 79 ms (1 blueprints)
+[2023.05.17-07.32.58:608][834]BlueprintLog: Warning: Blueprint failed to compile:  Level1_Auto1
+[2023.05.17-07.33.04:732][834]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.05.17-07.33.04:795][834]PIE: New page: PIE session: Level1 (17 May 2023, 09:33:04)
+[2023.05.17-07.33.04:819][834]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.05.17-07.33.04:843][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024273s)
+[2023.05.17-07.33.04:843][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.024323s)
+[2023.05.17-07.33.04:843][834]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-07.33.04:844][834]LogAIModule: Creating AISystem for world Level1
+[2023.05.17-07.33.04:844][834]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2023.05.17-07.33.04:888][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.05.17-07.33.04:889][834]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.05.17-07.33.04:889][834]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.17-07.33.04:889][834]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.17-07.33.04:889][834]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.17-07.33.04:889][834]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.17-07.33.04:889][834]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.17-07.33.04:889][834]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.17-07.33.04:889][834]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.17-07.33.04:889][834]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.17-07.33.04:890][834]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.17-07.33.04:890][834]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.17-07.33.04:890][834]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.17-07.33.04:892][834]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.17-07.33.05:030][834]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.17-07.33.05:030][834]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.17-07.33.05:030][834]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.17-07.33.05:030][834]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.17-07.33.05:031][834]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.05.17-07.33.05:031][834]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.05.17-07.33.05:033][834]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.05.17-07.33.05:033][834]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.05.17-07.33.05:033][834]LogInit: FAudioDevice initialized.
+[2023.05.17-07.33.05:033][834]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2023.05.17-07.33.05:036][834]LogLoad: Game class is 'BP_EnemyGameMode_C'
+[2023.05.17-07.33.05:044][834]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.05.17-08.33.05
+[2023.05.17-07.33.05:047][834]LogWorld: Bringing up level for play took: 0.011173
+[2023.05.17-07.33.05:050][834]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.05.17-07.33.05:053][834]PIE: Server logged in
+[2023.05.17-07.33.05:053][834]PIE: Play in editor total start time 6.524 seconds.
+[2023.05.17-07.33.11:220][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-07.33.11:220][183]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.05.17-07.33.11:220][183]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.33.11:221][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-07.33.11:229][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.17-07.33.11:234][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-07.33.11:271][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-07.33.11:273][183]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.17-07.33.11:275][183]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.17-07.33.11:298][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.05.17-07.33.11:338][184]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.05.17-07.33.31:351][375]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.33.37:760][758]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.33.59:691][ 73]BlueprintLog: New page: Compile BP_apples
+[2023.05.17-07.33.59:753][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.05.17-07.33.59:799][ 74]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.34.00:641][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.17-07.34.00:709][122]LogSavePackage: Moving output files for package: /Game/Blueprints/Apples/BP_apples
+[2023.05.17-07.34.00:710][122]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_apples08E1939C4CFB1B17685072B10A9C6276.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/Apples/BP_apples.uasset'
+[2023.05.17-07.34.00:718][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 1.59 sec)
+[2023.05.17-07.34.00:723][122]AssetCheck: New page: Asset Save: BP_apples
+[2023.05.17-07.34.00:723][122]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples
+[2023.05.17-07.34.14:225][916]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.05.17-07.34.14:226][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-07.35.28:832][238]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.05.17-07.35.28:929][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.05.17-07.35.29:842][285]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.17-07.35.29:943][285]LogSavePackage: Moving output files for package: /Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.05.17-07.35.29:945][285]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_ThirdPersonCharacter2A56B5064A44F0C5704176A97E63E0CB.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.05.17-07.35.29:950][285]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 1.70 sec)
+[2023.05.17-07.35.29:957][285]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.05.17-07.35.29:957][285]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.05.17-07.35.32:870][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.17-07.35.32:975][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.05.17-07.35.33:063][449]LogSavePackage: Moving output files for package: /Game/Levels/Level1
+[2023.05.17-07.35.33:064][449]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/Level15ADE543349B10B5ACA4D20972764F4C2.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Levels/Level1.umap'
+[2023.05.17-07.35.33:073][449]LogFileHelpers: Saving map 'Level1' took 0.146
+[2023.05.17-07.35.33:082][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 212 ms (total: 1.91 sec)
+[2023.05.17-07.35.33:087][449]AssetCheck: New page: Asset Save: Level1
+[2023.05.17-07.35.33:087][449]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level1.Level1
+[2023.05.17-07.35.35:352][584]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.17-07.35.35:358][584]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.17-07.35.35:358][584]LogPlayLevel: [PlayLevel] Compiling Level1_Auto1 before play...
+[2023.05.17-07.35.35:359][584]LogBlueprint: Warning: [AssetLog] C:\Users\Silvia\OneDrive - Dundalk Institute of Technology\Desktop\Saving_Blue_Beta\Saving_Blue_Beta\Saved\Autosaves\Game\Levels\Level1_Auto1.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2023.05.17-07.35.35:359][584]LogBlueprint: Error: [AssetLog] C:\Users\Silvia\OneDrive - Dundalk Institute of Technology\Desktop\Saving_Blue_Beta\Saving_Blue_Beta\Saved\Autosaves\Game\Levels\Level1_Auto1.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2023.05.17-07.35.35:437][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.05.17-07.35.35:438][584]LogPlayLevel: PlayLevel: Blueprint regeneration took 79 ms (1 blueprints)
+[2023.05.17-07.35.35:438][584]BlueprintLog: Warning: Blueprint failed to compile:  Level1_Auto1
+[2023.05.17-07.35.37:119][584]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Temp/Autosaves/Game/Levels/Level1_Auto1.Level1_Auto1:PersistentLevel.Level1_Auto1
+[2023.05.17-07.35.37:119][584]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-07.35.37:467][584]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.05.17-07.35.45:156][ 34]LogBlueprint: Warning: Unknown type of hyperlinked object (Level1_Auto1), cannot focus it
+[2023.05.17-07.35.45:156][ 34]LogBlueprint: Warning: Unknown type of hyperlinked object (Level1_Auto1), cannot focus it
+[2023.05.17-07.35.47:055][148]LogBlueprint: Warning: Unknown type of hyperlinked object (Level1_Auto1), cannot focus it
+[2023.05.17-07.35.47:055][148]LogBlueprint: Warning: Unknown type of hyperlinked object (Level1_Auto1), cannot focus it
+[2023.05.17-07.35.48:417][230]LogSlate: Window 'Message Log' being destroyed
+[2023.05.17-07.35.48:425][230]LogSlate: Window 'Message Log' being destroyed
+[2023.05.17-07.36.19:079][ 64]BlueprintLog: New page: Compile Level1_Auto1
+[2023.05.17-07.36.19:080][ 64]LogBlueprint: Warning: [AssetLog] C:\Users\Silvia\OneDrive - Dundalk Institute of Technology\Desktop\Saving_Blue_Beta\Saving_Blue_Beta\Saved\Autosaves\Game\Levels\Level1_Auto1.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2023.05.17-07.36.19:080][ 64]LogBlueprint: Error: [AssetLog] C:\Users\Silvia\OneDrive - Dundalk Institute of Technology\Desktop\Saving_Blue_Beta\Saving_Blue_Beta\Saved\Autosaves\Game\Levels\Level1_Auto1.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2023.05.17-07.36.19:167][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.17-07.36.22:709][275]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.36.22:709][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-07.36.26:995][512]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.17-07.36.27:001][512]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.17-07.36.27:001][512]LogPlayLevel: [PlayLevel] Compiling Level1_Auto1 before play...
+[2023.05.17-07.36.27:002][512]LogBlueprint: Warning: [AssetLog] C:\Users\Silvia\OneDrive - Dundalk Institute of Technology\Desktop\Saving_Blue_Beta\Saving_Blue_Beta\Saved\Autosaves\Game\Levels\Level1_Auto1.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2023.05.17-07.36.27:003][512]LogBlueprint: Error: [AssetLog] C:\Users\Silvia\OneDrive - Dundalk Institute of Technology\Desktop\Saving_Blue_Beta\Saving_Blue_Beta\Saved\Autosaves\Game\Levels\Level1_Auto1.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2023.05.17-07.36.27:081][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.05.17-07.36.27:083][512]LogPlayLevel: PlayLevel: Blueprint regeneration took 82 ms (1 blueprints)
+[2023.05.17-07.36.27:083][512]BlueprintLog: Warning: Blueprint failed to compile:  Level1_Auto1
+[2023.05.17-07.36.28:821][512]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.05.17-07.36.28:862][512]PIE: New page: PIE session: Level1 (17 May 2023, 09:36:28)
+[2023.05.17-07.36.28:888][512]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.05.17-07.36.28:913][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025922s)
+[2023.05.17-07.36.28:913][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.025997s)
+[2023.05.17-07.36.28:914][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-07.36.28:914][512]LogAIModule: Creating AISystem for world Level1
+[2023.05.17-07.36.28:915][512]LogPlayLevel: PIE: World Init took: (0.001078s)
+[2023.05.17-07.36.28:967][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.05.17-07.36.28:968][512]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.05.17-07.36.28:968][512]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.17-07.36.28:968][512]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.17-07.36.28:969][512]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.17-07.36.28:969][512]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.17-07.36.28:969][512]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.17-07.36.28:969][512]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.17-07.36.28:969][512]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.17-07.36.28:969][512]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.17-07.36.28:969][512]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.17-07.36.28:969][512]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.17-07.36.28:969][512]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.17-07.36.28:972][512]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.17-07.36.29:112][512]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.17-07.36.29:112][512]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.17-07.36.29:112][512]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.17-07.36.29:112][512]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.17-07.36.29:112][512]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.05.17-07.36.29:112][512]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.05.17-07.36.29:114][512]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.05.17-07.36.29:114][512]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.05.17-07.36.29:114][512]LogInit: FAudioDevice initialized.
+[2023.05.17-07.36.29:114][512]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level1'.
+[2023.05.17-07.36.29:117][512]LogLoad: Game class is 'BP_EnemyGameMode_C'
+[2023.05.17-07.36.29:125][512]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.05.17-08.36.29
+[2023.05.17-07.36.29:128][512]LogWorld: Bringing up level for play took: 0.010961
+[2023.05.17-07.36.29:131][512]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.05.17-07.36.29:133][512]PIE: Server logged in
+[2023.05.17-07.36.29:133][512]PIE: Play in editor total start time 2.133 seconds.
+[2023.05.17-07.36.37:628][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-07.36.37:628][  7]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.05.17-07.36.37:628][  7]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.36.37:630][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-07.36.37:640][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.17-07.36.37:645][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-07.36.37:692][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-07.36.37:694][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.17-07.36.37:696][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.17-07.36.37:718][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.05.17-07.36.37:760][  8]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.05.17-07.36.51:498][825]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.36.51:579][827]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.36.52:091][838]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.36.57:180][134]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.36.57:551][142]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.36.57:639][146]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.36.59:564][261]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.00:200][279]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.00:293][281]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.02:132][391]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.02:734][409]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.02:869][411]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.03:568][453]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.03:953][476]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.04:019][480]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.04:086][484]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.04:169][489]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.04:668][519]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.04:892][531]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.20:264][424]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.37.20:264][424]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.37.20:265][424]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_5
+[2023.05.17-07.37.20:266][424]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_5
+[2023.05.17-07.37.21:738][511]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.37.21:738][511]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.37.21:740][511]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_6
+[2023.05.17-07.37.21:741][511]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_6
+[2023.05.17-07.37.21:768][512]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.22:658][565]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.22:741][570]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.22:790][573]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.22:958][583]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.23:125][593]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.23:208][598]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.23:691][627]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.24:112][651]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.44:261][810]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.37.44:261][810]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.37.44:263][810]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_7
+[2023.05.17-07.37.44:264][810]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_7
+[2023.05.17-07.37.44:433][819]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.37.44:433][819]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.37.44:434][819]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_8
+[2023.05.17-07.37.44:436][819]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_8
+[2023.05.17-07.37.45:582][887]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.37.45:582][887]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Apples/BP_apples.BP_apples_C
+[2023.05.17-07.37.45:584][887]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_9
+[2023.05.17-07.37.45:584][887]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples as actor: BP_apples_C /Game/Levels/Level1.Level1:PersistentLevel.BP_apples_C_9
+[2023.05.17-07.37.45:611][888]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.46:422][936]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.46:456][938]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.46:488][940]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.47:189][982]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.47:222][984]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.47:589][  6]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.47:655][ 10]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.48:005][ 31]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.48:426][ 55]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.37.59:414][704]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Swans/BP_Swan.BP_Swan
+[2023.05.17-07.37.59:416][704]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-07.38.17:348][747]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.38.19:231][859]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.39.48:305][145]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.39.50:517][276]BlueprintLog: New page: Compile BP_apples
+[2023.05.17-07.39.50:629][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.05.17-07.39.50:674][277]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/Level1.Level1:PersistentLevel.RecastNavMesh-Default).
+[2023.05.17-07.39.51:893][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.17-07.39.52:000][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.05.17-07.39.52:077][341]LogSavePackage: Moving output files for package: /Game/Levels/Level1
+[2023.05.17-07.39.52:078][341]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/Level1E32003284DE711A198AA6BAD775E486E.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Levels/Level1.umap'
+[2023.05.17-07.39.52:087][341]LogFileHelpers: Saving map 'Level1' took 0.137
+[2023.05.17-07.39.52:094][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 2.11 sec)
+[2023.05.17-07.39.52:103][341]AssetCheck: New page: Asset Save: Level1
+[2023.05.17-07.39.52:103][341]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level1.Level1
+[2023.05.17-07.39.54:766][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.05.17-07.40.02:572][496]LogSlate: Window 'Save Content' being destroyed
+[2023.05.17-07.40.02:639][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.17-07.40.02:755][496]LogSavePackage: Moving output files for package: /Game/Blueprints/Apples/BP_apples
+[2023.05.17-07.40.02:756][496]LogSavePackage: Moving '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Saved/BP_apples08AC88C64905E0E92476569C9426E490.tmp' to '../../../../../../Users/Silvia/OneDrive - Dundalk Institute of Technology/Desktop/Saving_Blue_Beta/Saving_Blue_Beta/Content/Blueprints/Apples/BP_apples.uasset'
+[2023.05.17-07.40.02:764][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 2.24 sec)
+[2023.05.17-07.40.02:764][496]LogStall: Shutdown...
+[2023.05.17-07.40.02:771][496]LogStall: Shutdown complete.
+[2023.05.17-07.40.02:817][496]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.02:817][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-07.40.02:864][496]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.17-07.40.02:864][496]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.02:864][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-07.40.02:905][496]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.17-07.40.02:905][496]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.02:905][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-07.40.02:953][496]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.17-07.40.02:953][496]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.02:953][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-07.40.03:007][496]LogSlate: Window 'Saving_Blue_Beta - Unreal Editor' being destroyed
+[2023.05.17-07.40.03:082][496]AssetCheck: New page: Asset Save: BP_apples
+[2023.05.17-07.40.03:082][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Apples/BP_apples.BP_apples
+[2023.05.17-07.40.03:084][497]Cmd: QUIT_EDITOR
+[2023.05.17-07.40.03:084][497]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.05.17-07.40.03:091][497]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.05.17-07.40.03:091][497]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.05.17-07.40.03:091][497]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.05.17-07.40.03:092][497]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:092][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-07.40.03:093][497]LogWorld: UWorld::CleanupWorld for Level1_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:093][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-07.40.03:093][497]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.05.17-07.40.03:093][497]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.05.17-07.40.03:348][497]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.05.17-07.40.03:348][497]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.05.17-07.40.03:348][497]LogAudio: Display: Audio Device unregistered from world 'Level1'.
+[2023.05.17-07.40.03:348][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.05.17-07.40.03:350][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.05.17-07.40.03:369][497]LogAudio: Display: Audio Device Manager Shutdown
+[2023.05.17-07.40.03:373][497]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.05.17-07.40.03:373][497]LogExit: Preparing to exit.
+[2023.05.17-07.40.03:443][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.05.17-07.40.03:462][497]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:462][497]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:462][497]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:462][497]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:462][497]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:462][497]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:462][497]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:462][497]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:462][497]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:462][497]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:462][497]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:463][497]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:463][497]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:463][497]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:463][497]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:463][497]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:463][497]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:463][497]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:463][497]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-07.40.03:702][497]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:704][497]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:709][497]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:711][497]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:714][497]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:717][497]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:720][497]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:723][497]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:725][497]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:728][497]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:731][497]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:734][497]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:737][497]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:740][497]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:743][497]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:745][497]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:748][497]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-07.40.03:822][497]LogExit: Editor shut down
+[2023.05.17-07.40.03:824][497]LogExit: Transaction tracking system shut down
+[2023.05.17-07.40.03:848][497]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.05.17-07.40.03:976][497]LogExit: Object subsystem successfully closed.
+[2023.05.17-07.40.03:981][497]LogShaderCompilers: Display: ================================================
+[2023.05.17-07.40.03:981][497]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.17-07.40.03:981][497]LogShaderCompilers: Display: Total job queries 390, among them cache hits 25 (6.41%)
+[2023.05.17-07.40.03:981][497]LogShaderCompilers: Display: Tracking 365 distinct input hashes that result in 243 distinct outputs (66.58%)
+[2023.05.17-07.40.03:981][497]LogShaderCompilers: Display: RAM used: 3.05 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.19%
+[2023.05.17-07.40.03:982][497]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.17-07.40.03:982][497]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.17-07.40.03:982][497]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.17-07.40.03:982][497]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.17-07.40.03:982][497]LogShaderCompilers: Display: ================================================
+[2023.05.17-07.40.04:081][497]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.05.17-07.40.04:090][497]LogVirtualization: UE::Virtualization was shutdown
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (1015)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1013)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module Voice (1011)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (1009)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1007)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module BlueprintGraph (1005)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1003)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1001)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module AddContentDialog (999)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module WidgetCarousel (998)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module SubobjectEditor (995)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module SceneOutliner (993)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module StatusBar (991)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (989)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module StatsViewer (987)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (985)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module AutomationWorker (983)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module SmartSnapping (981)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (979)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module TextureAlignMode (977)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module BspMode (975)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module GeometryMode (973)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (971)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (969)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (967)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module WaveTableEditor (965)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (963)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module HDRIBackdrop (961)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module GooglePADEditor (959)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (957)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (955)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (953)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (951)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (949)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (947)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module WebMMedia (945)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (943)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (941)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (939)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (937)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (935)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module SequenceRecorder (934)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (931)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (929)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (927)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (925)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (923)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (921)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module TakesCore (919)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module ControlRigEditor (917)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module IKRigEditor (915)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module WaterEditor (913)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module PlanarCut (911)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module CharacterAI (909)
+[2023.05.17-07.40.04:116][497]LogModuleManager: Shutting down and abandoning module SessionServices (907)
+[2023.05.17-07.40.04:117][497]LogModuleManager: Shutting down and abandoning module MeshPaint (905)
+[2023.05.17-07.40.04:117][497]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (903)
+[2023.05.17-07.40.04:117][497]LogModuleManager: Shutting down and abandoning module PlacementMode (902)
+[2023.05.17-07.40.04:117][497]LogModuleManager: Shutting down and abandoning module FoliageEdit (899)
+[2023.05.17-07.40.04:117][497]LogModuleManager: Shutting down and abandoning module LandscapeEditor (897)
+[2023.05.17-07.40.04:117][497]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (895)
+[2023.05.17-07.40.04:117][497]LogModuleManager: Shutting down and abandoning module ActorPickerMode (893)
+[2023.05.17-07.40.04:117][497]LogModuleManager: Shutting down and abandoning module ViewportSnapping (891)
+[2023.05.17-07.40.04:117][497]LogModuleManager: Shutting down and abandoning module ViewportInteraction (889)
+[2023.05.17-07.40.04:117][497]LogModuleManager: Shutting down and abandoning module ClothPainter (887)
+[2023.05.17-07.40.04:117][497]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (886)
+[2023.05.17-07.40.04:117][497]LogModuleManager: Shutting down and abandoning module LogVisualizer (883)
+[2023.05.17-07.40.04:117][497]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (881)
+[2023.05.17-07.40.04:117][497]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (879)
+[2023.05.17-07.40.04:117][497]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (878)
+[2023.05.17-07.40.04:117][497]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (876)
+[2023.05.17-07.40.04:949][497]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (873)
+[2023.05.17-07.40.04:949][497]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (871)
+[2023.05.17-07.40.04:949][497]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (869)
+[2023.05.17-07.40.04:949][497]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (867)
+[2023.05.17-07.40.04:949][497]LogModuleManager: Shutting down and abandoning module AnimationSettings (865)
+[2023.05.17-07.40.04:949][497]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (863)
+[2023.05.17-07.40.04:949][497]LogModuleManager: Shutting down and abandoning module CSVtoSVG (861)
+[2023.05.17-07.40.04:949][497]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (859)
+[2023.05.17-07.40.04:949][497]LogModuleManager: Shutting down and abandoning module EditorConfig (857)
+[2023.05.17-07.40.04:949][497]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (855)
+[2023.05.17-07.40.04:949][497]LogModuleManager: Shutting down and abandoning module EditorFramework (853)
+[2023.05.17-07.40.04:949][497]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (851)
+[2023.05.17-07.40.04:949][497]LogModuleManager: Shutting down and abandoning module TraceInsights (849)
+[2023.05.17-07.40.04:949][497]MemoryProfiler: Shutdown
+[2023.05.17-07.40.04:949][497]NetworkingProfiler: Shutdown
+[2023.05.17-07.40.04:949][497]LoadingProfiler: Shutdown
+[2023.05.17-07.40.04:949][497]TimingProfiler: Shutdown
+[2023.05.17-07.40.04:949][497]LogModuleManager: Shutting down and abandoning module TraceServices (848)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (845)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (844)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module InputBindingEditor (841)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module MergeActors (839)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (837)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module LocalizationService (836)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module HardwareTargeting (833)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (831)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module UndoHistory (829)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module XmlParser (827)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module Blutility (825)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (823)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (822)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (819)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (818)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module SettingsEditor (815)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module ProjectLauncher (813)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module SessionFrontend (811)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module ProfilerClient (809)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module DeviceManager (807)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module AutomationController (805)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module AutomationWindow (803)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module Layers (801)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (799)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module DetailCustomizations (797)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module PackagesDialog (795)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (793)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module Persona (791)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (790)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module AnimGraph (788)
+[2023.05.17-07.40.04:950][497]LogModuleManager: Shutting down and abandoning module Kismet (785)
+[2023.05.17-07.40.04:960][497]LogModuleManager: Shutting down and abandoning module KismetWidgets (784)
+[2023.05.17-07.40.04:960][497]LogModuleManager: Shutting down and abandoning module GraphEditor (781)
+[2023.05.17-07.40.04:960][497]LogModuleManager: Shutting down and abandoning module StructViewer (779)
+[2023.05.17-07.40.04:960][497]LogModuleManager: Shutting down and abandoning module ClassViewer (777)
+[2023.05.17-07.40.04:962][497]LogModuleManager: Shutting down and abandoning module NaniteTools (775)
+[2023.05.17-07.40.04:962][497]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (773)
+[2023.05.17-07.40.04:962][497]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (771)
+[2023.05.17-07.40.04:962][497]LogModuleManager: Shutting down and abandoning module SourceControlWindows (769)
+[2023.05.17-07.40.04:962][497]LogModuleManager: Shutting down and abandoning module OutputLog (767)
+[2023.05.17-07.40.04:962][497]LogModuleManager: Shutting down and abandoning module Documentation (765)
+[2023.05.17-07.40.04:962][497]LogModuleManager: Shutting down and abandoning module LiveCoding (763)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (761)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module MovieScene (759)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (757)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (755)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (753)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module AudioMixer (752)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module AudioMixerCore (751)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module LauncherPlatform (747)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module AnalyticsET (745)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module PortalServices (743)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module PortalRpc (741)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module MessagingRpc (739)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module AIModule (737)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module GameplayDebugger (736)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module AITestSuite (734)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module NavigationSystem (732)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module DataLayerEditor (729)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module EditorWidgets (728)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (725)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (723)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module TypedElementFramework (721)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (719)
+[2023.05.17-07.40.04:969][497]LogModuleManager: Shutting down and abandoning module ProfilerService (717)
+[2023.05.17-07.40.05:008][497]LogModuleManager: Shutting down and abandoning module TaskGraph (715)
+[2023.05.17-07.40.05:008][497]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (713)
+[2023.05.17-07.40.05:008][497]LogModuleManager: Shutting down and abandoning module MegascansPlugin (711)
+[2023.05.17-07.40.05:008][497]LogModuleManager: Shutting down and abandoning module Bridge (709)
+[2023.05.17-07.40.05:008][497]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (707)
+[2023.05.17-07.40.05:008][497]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (705)
+[2023.05.17-07.40.05:008][497]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (703)
+[2023.05.17-07.40.05:008][497]LogModuleManager: Shutting down and abandoning module CollectionManager (702)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (699)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module LightMixer (697)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (695)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (693)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module Paper2DEditor (691)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (689)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module VariantManager (685)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (684)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (681)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (679)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (677)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (675)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module StylusInput (673)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module PluginBrowser (671)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (669)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (667)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (665)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module InterchangeEditor (663)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (661)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (659)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (657)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module InterchangePipelines (655)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module InterchangeExport (653)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module InterchangeMessages (651)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module InterchangeImport (649)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (647)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module InterchangeNodes (645)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (643)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (641)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (639)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (637)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (635)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module GLTFImporter (633)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module GLTFCore (631)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (629)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module EditorDebugTools (627)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (625)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module CurveEditorTools (623)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (621)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module CryptoKeys (619)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module TemplateSequence (617)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (615)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module SequencerScripting (613)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (611)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module InterchangeTests (609)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module AlembicImporter (607)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module AlembicLibrary (606)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module SynthesisEditor (603)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module ResonanceAudio (601)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (599)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (597)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (595)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module ModelingOperators (593)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (591)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module ModelingComponents (589)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module GeometryFramework (588)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (585)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module MeshModelingTools (583)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module AssetTags (581)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module InputDebugging (579)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module GooglePAD (577)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module DynamicMesh (575)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (573)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (571)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module GeometryCache (569)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (567)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (565)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (563)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module AudioCapture (561)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (560)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (557)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module AndroidPermission (555)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (553)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module AppleImageUtils (551)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (549)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (547)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (545)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module MediaPlate (543)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module ImgMedia (541)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module MediaCompositing (539)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (537)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module UObjectPlugin (535)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (533)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (531)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (529)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (527)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module PluginUtils (525)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module DumpGPUServices (523)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module GitSourceControl (521)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (519)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (517)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module TakeSequencer (515)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module TakeMovieScene (513)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (511)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module ControlRigSpline (509)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (507)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (505)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (503)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module UVEditorTools (501)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module UVEditor (499)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (497)
+[2023.05.17-07.40.05:009][497]LogOpenImageDenoise: OIDN shutting down
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (495)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (493)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (491)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (489)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module MeshLODToolset (487)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module Iris (485)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module LandmassEditor (483)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module Landmass (481)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (479)
+[2023.05.17-07.40.05:009][497]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (477)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (476)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (474)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (471)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (469)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (467)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (465)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module DataflowNodes (463)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module DataflowEditor (461)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module FractureEditor (459)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module ChaosNiagara (457)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (455)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (453)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (451)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module BackChannel (449)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (447)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module AutomationUtils (445)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (443)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module TraceUtilities (441)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (439)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (437)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module InputEditor (435)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module Paper2D (433)
+[2023.05.17-07.40.05:010][497]LogModuleManager: Shutting down and abandoning module UdpMessaging (431)
+[2023.05.17-07.40.05:110][497]LogModuleManager: Shutting down and abandoning module TcpMessaging (429)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module DataValidation (427)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (425)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module FacialAnimation (423)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (421)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (419)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (417)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module TreeMap (416)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module ActorSequence (413)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module GameplayCameras (411)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module Synthesis (409)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module SoundFields (407)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module SignificanceManager (405)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (403)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (401)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module MetasoundEditor (399)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module AudioWidgets (398)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (397)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (393)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module MetasoundEngine (391)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module WaveTable (390)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (388)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (385)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (383)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (381)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (379)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module CableComponent (377)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (375)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (373)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (372)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (369)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (367)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (365)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (363)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module AnimationSharing (361)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (359)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module ControlRig (357)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (355)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module Niagara (353)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module SignalProcessing (352)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module NiagaraEditor (350)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module ContentBrowser (349)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module ToolMenus (348)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module ContentBrowserData (346)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module NiagaraCore (341)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (339)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module IKRig (337)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (335)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module PBIK (333)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module FullBodyIK (331)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (329)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module TakeRecorder (328)
+[2023.05.17-07.40.05:211][497]LogModuleManager: Shutting down and abandoning module LevelEditor (326)
+[2023.05.17-07.40.05:213][497]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (325)
+[2023.05.17-07.40.05:213][497]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (323)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (321)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module MainFrame (319)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module HotReload (318)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module ChaosCaching (313)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module LevelSequence (312)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (309)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (307)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module EnhancedInput (305)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (303)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module BlueprintMaterialTextureNodes (301)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (299)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module AndroidFileServer (297)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (295)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module PacketHandler (293)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module TimeManagement (291)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module AnimationDataController (289)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (287)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (285)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module MediaAssets (283)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module Overlay (281)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module OverlayEditor (280)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module VREditor (277)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module StringTableEditor (275)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (273)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (271)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module FunctionalTesting (269)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (267)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (266)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module UMG (263)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module UMGEditor (262)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module EditorStyle (257)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module SlateReflector (255)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module Slate (253)
+[2023.05.17-07.40.05:214][497]LogModuleManager: Shutting down and abandoning module SlateCore (251)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (249)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (247)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module UnrealEd (245)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module MRMesh (243)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module Messaging (241)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (239)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (237)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module Networking (235)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module Core (233)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module MaterialEditor (231)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module MovieSceneTools (229)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module CurveEditor (228)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module Sequencer (226)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module KismetCompiler (223)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module MeshBuilder (221)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module NaniteBuilder (219)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module MeshUtilities (217)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (216)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (215)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (214)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (212)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (210)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (208)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module MaterialBaking (204)
+[2023.05.17-07.40.05:216][497]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (201)
+[2023.05.17-07.40.05:228][497]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (197)
+[2023.05.17-07.40.05:228][497]LogModuleManager: Shutting down and abandoning module DerivedDataCache (195)
+[2023.05.17-07.40.05:230][497]LogModuleManager: Shutting down and abandoning module TargetPlatform (193)
+[2023.05.17-07.40.05:230][497]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (192)
+[2023.05.17-07.40.05:230][497]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (190)
+[2023.05.17-07.40.05:230][497]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (188)
+[2023.05.17-07.40.05:230][497]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (186)
+[2023.05.17-07.40.05:230][497]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (184)
+[2023.05.17-07.40.05:230][497]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (182)
+[2023.05.17-07.40.05:230][497]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (180)
+[2023.05.17-07.40.05:230][497]LogModuleManager: Shutting down and abandoning module AudioFormatBink (178)
+[2023.05.17-07.40.05:230][497]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (176)
+[2023.05.17-07.40.05:230][497]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (169)
+[2023.05.17-07.40.05:230][497]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (167)
+[2023.05.17-07.40.05:230][497]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (165)
+[2023.05.17-07.40.05:230][497]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (163)
+[2023.05.17-07.40.05:230][497]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (161)
+[2023.05.17-07.40.05:230][497]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (159)
+[2023.05.17-07.40.05:230][497]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (157)
+[2023.05.17-07.40.05:230][497]LogModuleManager: Shutting down and abandoning module TextureFormat (155)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module ImageWrapper (154)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (152)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (150)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (148)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (146)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (144)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (142)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module TurnkeySupport (139)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module InputCore (136)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module Settings (134)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (132)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (130)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (129)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module Chaos (126)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module GeometryCore (125)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module D3D12RHI (116)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (114)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (112)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (110)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module VariantManagerContent (108)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (106)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (104)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (102)
+[2023.05.17-07.40.05:231][497]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (100)
+[2023.05.17-07.40.05:233][497]LogModuleManager: Shutting down and abandoning module XMPP (95)
+[2023.05.17-07.40.05:233][497]LogModuleManager: Shutting down and abandoning module WebSockets (94)
+[2023.05.17-07.40.05:236][497]LogModuleManager: Shutting down and abandoning module HTTP (91)
+[2023.05.17-07.40.05:236][497]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.05.17-07.40.05:236][497]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCAAEBA50-4F50-1378-86FA-708E90D1C511%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=c89217224706420ca05fc8aac8647905%7Cc912808a111740e18552004b0debbab0%7Cd11eb731-f24a-48fe-bb75-6df143b8f2ce&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.05.17-07.40.05:243][497]LogModuleManager: Shutting down and abandoning module SSL (90)
+[2023.05.17-07.40.05:243][497]LogModuleManager: Shutting down and abandoning module DatasmithContent (86)
+[2023.05.17-07.40.05:244][497]LogModuleManager: Shutting down and abandoning module GLTFExporter (84)
+[2023.05.17-07.40.05:244][497]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (82)
+[2023.05.17-07.40.05:244][497]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2023.05.17-07.40.05:244][497]LogModuleManager: Shutting down and abandoning module ChunkDownloader (78)
+[2023.05.17-07.40.05:244][497]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2023.05.17-07.40.05:247][497]LogModuleManager: Shutting down and abandoning module Media (75)
+[2023.05.17-07.40.05:248][497]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (72)
+[2023.05.17-07.40.05:248][497]LogModuleManager: Shutting down and abandoning module PixWinPlugin (70)
+[2023.05.17-07.40.05:248][497]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (68)
+[2023.05.17-07.40.05:248][497]LogModuleManager: Shutting down and abandoning module NiagaraShader (66)
+[2023.05.17-07.40.05:248][497]LogModuleManager: Shutting down and abandoning module Water (64)
+[2023.05.17-07.40.05:248][497]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2023.05.17-07.40.05:248][497]LogModuleManager: Shutting down and abandoning module AISupportModule (60)
+[2023.05.17-07.40.05:248][497]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2023.05.17-07.40.05:248][497]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (56)
+[2023.05.17-07.40.05:248][497]LogModuleManager: Shutting down and abandoning module SourceControl (55)
+[2023.05.17-07.40.05:248][497]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (52)
+[2023.05.17-07.40.05:248][497]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (50)
+[2023.05.17-07.40.05:248][497]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (48)
+[2023.05.17-07.40.05:248][497]LogModuleManager: Shutting down and abandoning module PlatformCrypto (46)
+[2023.05.17-07.40.05:248][497]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.05.17-07.40.05:248][497]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.05.17-07.40.05:248][497]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.05.17-07.40.05:248][497]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.05.17-07.40.05:249][497]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.05.17-07.40.05:249][497]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.05.17-07.40.05:249][497]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.05.17-07.40.05:249][497]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.05.17-07.40.05:249][497]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.05.17-07.40.05:249][497]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.05.17-07.40.05:249][497]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.05.17-07.40.05:250][497]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.05.17-07.40.05:250][497]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.05.17-07.40.05:250][497]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.05.17-07.40.05:250][497]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.05.17-07.40.05:250][497]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.05.17-07.40.05:250][497]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.05.17-07.40.05:250][497]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.05.17-07.40.05:250][497]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.05.17-07.40.05:250][497]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.05.17-07.40.05:250][497]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.05.17-07.40.05:250][497]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.05.17-07.40.05:599][497]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.05.17-07.40.05:642][497]LogExit: Exiting.
+[2023.05.17-07.40.05:653][497]Log file closed, 05/17/23 08:40:05
